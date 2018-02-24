@@ -32,7 +32,9 @@ while i <len(contents):
     precent_through = int(i/len(contents)*100)
     percent_str = str(precent_through)+"%"
     print(percent_str,end=' ')
-
+    if len(contents[i].split('\t')) < 2:
+        i+=1
+        continue
     #print(contents[i])
     print(contents[i].split('\t')[1].strip())
     print(percent_str,end=' ')
