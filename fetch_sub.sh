@@ -1,0 +1,1 @@
+youtube-dl --write-auto-sub --skip-download --id $1

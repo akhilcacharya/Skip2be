@@ -1,0 +1,5 @@
+.vscode
+*.vtt
+
+# Temporary - remove once we decide on the dataset organization
+*.tsv
