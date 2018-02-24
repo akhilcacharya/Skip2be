@@ -1,0 +1,5 @@
+30	(y,so) (y,you) (y,bought) (y,yourself) (y,an) (y,ergonomic) 
+1800	(y,keyboard) (y,spending) (y,not) (n,only) (n,hundreds) (n,of) 
+4019	(n,dollars) (y,but) (y,also) (y,countless) (n,hours) (n,trying) 
+6420	(n,to) (n,master) (n,typing) (n,on) (n,the) (y,darn) (y,thing) (y,but) 
+8820	(n,like) (n,that's) (n,fine) (n,I) (n,guess) (n,right) (n,you) (n,can't) 
