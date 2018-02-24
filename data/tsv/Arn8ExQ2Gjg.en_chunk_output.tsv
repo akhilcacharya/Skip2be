@@ -1,0 +1,259 @@
+30	why on earth would anyone want a second
+3030	keyboard Linus asked me when I tried to
+5819	show him this project I've been working
+7500	on for quite a while well let me tell
+9540	you it's not for everyone but if you are
+12120	a productivity freak like me the concept
+14700	might really appeal to you basically
+16949	this entire keyboard has been converted
+18990	into a set of 87 fully programmable
+22039	macro keys
+31880	intel brings ddr4 to the mainstream with
+34590	their new core i7 6700 K and Core i5
+37640	6600 K processors check out the link in
+40470	the video description to learn more so
+42030	to give you some background on why I
+44850	need a second keyboard I'm the video
+47940	editor for most of the videos that go up
+50160	on this channel that's a lot of videos
+52530	and the more quickly and efficiently I
+54360	can edit them the better now
+56850	fast and efficient video editing relies
+59100	heavily upon keyboard shortcuts so much
+62070	so that inside premiere I assigned
+64260	functions to all the numbers letters and
+66570	symbols all the function keys the entire
+69510	numpad and most of the reasonable
+72090	combinations of ctrl shift and alt
+74549	that's a lot of shortcuts and yes I do
+77400	use all of those on a daily basis it's
+80010	easy to remember single key shortcuts
+82350	but the more keys you need to press in a
+84869	row the more difficult it is to not only
+86970	remember the key combination but also to
+89310	physically press those keys
+90960	that's what macro Keys are good for if
+93780	you don't know a macro key we'll
+95820	basically launch a pre-programmed series
+98100	of keystrokes and/or mouse clicks which
+100710	you would otherwise have to press
+102000	manually every time for example let's
+104850	say I'm editing a video in Premiere and
+106920	I want to reverse a clip on the timeline
+108900	to do this I could click on the clip
+111870	mouse over to the clip menu select speed
+114840	duration mouse over to the panel that
+116730	appears click reverse and then mouse
+119610	over to enter and click on that this
+122400	takes a few seconds to do alternatively
+125130	I could just press one single macro
+127710	button which automatically executes the
+130199	keystrokes ctrl R tab tab space enter
+133290	which accomplishes exactly the same
+135390	thing but in a fraction of a second
+137580	that's the power and usefulness of a
+140190	keyboard macro gamers will use macros in
+143190	games like World of Warcraft dota
+145230	Starcraft League of Legends and so on
+147870	but pretty much any game can be made
+149670	easier with macros and keyboard macros
+152310	are also really useful for certain jobs
+154049	like video editing animation graphic
+157200	design programming music creation and I
+160620	don't know accounting maybe I don't
+163200	really know what accountants do
+164430	all day but pretty much anything that
+166260	involves heavy computer use and
+168060	repetitive tasks usually macros are just
+171120	a series of blind keystrokes and mouse
+173459	clicks but you can make even more
+176400	powerful macros using autohotkey
+179120	autohotkey is a free brilliant little
+182370	program that you can use to completely
+184469	automate repetitive tasks remap Keys
+187170	intelligently simulate clicks and
+189180	keystrokes and do a lot more stuff that
+191400	I don't even understand I've used auto
+193799	hotkey to program a ton of useful
+196019	features for Premiere Pro that don't
+198569	even exist in the application itself
+200489	like recalling saved transitions and
+202650	applying effects directly onto selected
+205139	clips but my problem now is that I use
+208049	so many macros and so many keyboard
+210480	shortcuts that I have now physically run
+212639	out of keys on the keyboard
+214680	and what can you do then well we have a
+217680	few of these cool little tech Keys
+220260	keyboards lying around the office so I
+223109	experimented with those we also have a
+225930	Razer orb-weaver which is actually
+228299	pretty awesome and it's been designed
+229949	for this exact purpose all of its keys
+233250	can be remaps to any key or key
+235620	combination you desire now since you're
+238019	still restricted to standard keyboard
+240329	keys what I like to do is program the
+242669	keys on these extra keyboards to execute
+244829	very obscure key combinations like ctrl
+248220	alt f1 and then I program autohotkey to
+252000	listen for these key combinations and
+253919	then execute whatever function I desire
+256440	the trouble is if you do too much of
+258839	this it's tough to remember what
+261120	combinations you've already used and
+263159	what combinations all your various
+265110	different applications might already be
+267300	using but you know what the tech keys
+269639	keyboards and the orb-weaver still don't
+272580	have enough keys for all the extra
+274830	functions that I want and these
+277229	keyboards are surprisingly expensive and
+280169	that's when it hit me why can't I just
+282539	hook up a second keyboard to my computer
+285570	well it turns out that Windows will
+288150	treat every keyboard that you plug in as
+290550	one keyboard you can plug in all the
+293550	keyboards you like but your computer
+295229	cannot tell the difference but
+297610	between them bummer fortunately one of
+300370	my Twitter followers linked me to this
+302469	video by Tom Scott who successfully got
+305759	14 keyboards to work as their own
+308530	separate inputs
+310090	he used a program called Lua macros
+312550	which was actually developed for flight
+314949	simulator enthusiasts who want to have a
+317469	lot of switches and buttons for their
+319569	virtual cockpits great so it is possible
+322990	now all I needed to do was figure out
+325539	how to code in Lua and find a way to get
+329020	Lua macros to communicate with
+331090	autohotkey which is where all of my
+332949	functions already are Tom Scott had done
+335949	this but he didn't provide any of the
+338199	necessary details like you know sample
+341590	code then it presses the f24 King
+344710	themselves after quite a bit of
+346419	frustration I finally figured out how to
+349090	do it my second keyboard now works as
+352120	its own unique input and every single
+355150	one of these keys acts as a macro button
+357939	which will launch its own unique
+359949	autohotkey script so here's how you do
+363159	it first download Lua macros and
+365620	autohotkey plug-in both of the keyboards
+368319	you want to use run Lua macros and open
+371169	up QuickStart Lua then click on the play
+374650	button you'll get a prompt asking you to
+377169	identify device macros which will become
+379990	the name of your second keyboard all you
+382900	need to do is press any key on that
+384729	second keyboard Lua macros will now
+387219	recognize it as such
+388479	and those keystrokes will now be
+390219	intercepted by Lua macros and therefore
+393129	blocked from normal typing once you get
+395469	that working you can write your own code
+397330	or download and use my Lua code which
+400389	basically just writes a small string to
+402759	a file on disk and then presses the f24
+405849	key download my autohotkey script or
+408460	write your own and double click on it to
+410529	get it running an icon for that script
+412750	will now appear on the taskbar now any
+415689	time the f24 key is virtually pressed by
+418870	Lua macros this autohotkey script will
+421750	read the string in that file and execute
+424629	the correct associated function tada
+427930	I knew it would be difficult to remember
+430840	which key did what so I created a bunch
+433330	of key cap images in Photoshop printed
+436030	them cut them out and taped them onto
+438280	the existing keys if you do this keep in
+440889	mind that your key caps will not
+442240	necessarily be compatible with every
+444760	slot on the keyboard so you may have to
+446710	be careful to maintain the underlying
+448479	QWERTY layout although for me I think it
+450669	was just the F and J keys the keyboard
+453430	that I used for this project was the
+454870	logitech k120 and it's nothing special
+458350	at all any cheap or old keyboard will
+461139	work perfectly
+462130	when using the second keyboard it does
+464650	take about two seconds to look down find
+467500	the key you want move your hand over to
+469450	that key press it and then move your
+471370	hand back to the primary keyboard so
+473740	it's best to use the secondary keyboard
+475630	for secondary functions that you don't
+478000	need all that often if you want to try
+480790	building and programming a second
+482350	keyboard
+482860	I will be providing all the necessary
+485229	code in the video description you're
+488080	welcome and before you say it I know
+490150	that my code is sloppy and suboptimal I
+493510	know but guess what it still works so if
+497229	any of you real programmers out there
+499479	want to complain about my messy code I
+502360	sure would appreciate it if you could
+504460	provide a functional sample of some code
+507130	that will work even better a great place
+509560	to do this will be in the Linus tech
+511419	tips discussion thread that is
+513190	associated with this video also linked
+515440	below there's still a lot to figure out
+517059	like using modifier keys and double
+519580	tapping to launch a different function
+521080	in fact Lua macros itself is just a side
+524860	project of a single man with very little
+527830	free time it's not even out of beta and
+530800	it still got a lot of bugs the good news
+533380	is the software is open source so if you
+536589	can help to make Lua macros better
+538420	I really suggest that you do I think it
+541240	would be great if we could use the power
+542620	of our community to improve useful niche
+545589	software like Lua macros personally I'm
+548920	very satisfied with my secondary
+550990	keyboard and I'm really looking forward
+552940	to seeing what you guys come up with
+555089	tunnel bear is the easy to use VPN app
+558339	for mobile and desktop it allows you to
+561130	tunnel to 16 different countries and
+563260	browse the internet and
+564700	use online services as if you're in one
+567340	of those other countries they have apps
+569350	for iOS Android PC and Mac and they also
+572020	have a Chrome extension when you pick a
+574210	country and turn tunnel bear on two
+575860	things will happen your connection gets
+577690	encrypted with AES 256-bit encryption
+579790	the strongest available and your public
+582940	IP address gets switched so you can show
+585220	up as if you're in a different country
+587020	with tunnel bear there's no need to mess
+589030	around with port configurations DNS or
+591700	router settings or all that nonsense it
+594010	just handles all of that by itself you
+596740	don't have to worry about it they also
+598300	give you 500 megabytes of data for free
+600760	so you can try it out no credit card
+603160	required and if you want to upgrade to
+605050	unlimited data you can save 10% by going
+607690	to tunnel bear comm /l tt thanks for
+610960	watching guys give the video a like or a
+612820	dislike get subscribed join the forum
+615880	and talk about Lua macros or whatever
+618700	you can support us by changing your
+620770	Amazon bookmarks to one with our
+622150	affiliate code so we get a small
+623650	kickback whenever you buy something and
+625780	you should check out another one of my
+627250	videos up here or wherever where I talk
+629530	about the fly cly and how incredibly
+631360	disappointing it was no the smartpen I
+634300	keep forgetting what it was called it's
+636370	terrible

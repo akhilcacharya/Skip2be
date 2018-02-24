@@ -1,0 +1,562 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:06.200 --> 00:00:10.950 align:start position:19%
+welcome<00:00:07.200><c> to</c><00:00:07.350><c> a</c><c.colorCCCCCC><00:00:07.379><c> Rhian</c><00:00:07.980><c> boxing</c><00:00:08.550><c> something</c><00:00:08.970><c> we</c></c>
+
+00:00:09.090 --> 00:00:14.120 align:start position:19%
+don't<00:00:09.210><c> do</c><c.colorE5E5E5><00:00:09.450><c> that</c><00:00:09.630><c> often</c><00:00:09.840><c> this</c><00:00:10.260><c> my</c><00:00:10.500><c> friends</c><00:00:10.860><c> is</c></c>
+
+00:00:10.950 --> 00:00:17.279 align:start position:19%
+<c.colorE5E5E5>the</c><c.colorCCCCCC><00:00:11.010><c> Coolermaster</c></c><c.colorE5E5E5><00:00:11.969><c> CM</c><00:00:12.420><c> storm</c><00:00:12.780><c> quickfire</c><00:00:13.349><c> TK</c></c>
+
+00:00:14.120 --> 00:00:19.680 align:start position:19%
+<c.colorCCCCCC>fully<00:00:15.120><c> backlit</c><00:00:15.630><c> mechanical</c><00:00:16.500><c> keyboard</c><00:00:16.980><c> it</c><00:00:17.130><c> has</c></c>
+
+00:00:17.279 --> 00:00:22.199 align:start position:19%
+an<00:00:17.460><c> extremely</c><c.colorE5E5E5><00:00:17.940><c> clever</c><00:00:18.420><c> layout</c><00:00:18.960><c> so</c><00:00:19.529><c> it</c></c>
+
+00:00:19.680 --> 00:00:23.910 align:start position:19%
+delivers<00:00:19.949><c> pretty</c><00:00:20.490><c> close</c><00:00:20.820><c> to</c><00:00:21.090><c> a</c><00:00:21.150><c> 10</c><00:00:21.510><c> kilo</c><00:00:21.750><c> size</c>
+
+00:00:22.199 --> 00:00:26.039 align:start position:19%
+so<00:00:22.590><c> so</c><00:00:22.949><c> for</c><c.colorCCCCCC><00:00:23.100><c> those</c><00:00:23.220><c> of</c><00:00:23.279><c> you</c><00:00:23.550><c> who</c><00:00:23.730><c> aren't</c></c>
+
+00:00:23.910 --> 00:00:27.689 align:start position:19%
+already<c.colorE5E5E5><00:00:24.210><c> sort</c><00:00:25.109><c> of</c><00:00:25.170><c> familiar</c></c><c.colorCCCCCC><00:00:25.650><c> with</c><00:00:25.830><c> the</c></c>
+
+00:00:26.039 --> 00:00:29.910 align:start position:19%
+terminology<c.colorCCCCCC><00:00:26.490><c> that</c><00:00:27.180><c> goes</c><00:00:27.359><c> along</c><00:00:27.510><c> with</c></c>
+
+00:00:27.689 --> 00:00:31.859 align:start position:19%
+mechanical<00:00:28.470><c> keyboard</c><c.colorE5E5E5><00:00:28.830><c> chopping</c></c><c.colorCCCCCC><00:00:29.279><c> ten</c><00:00:29.519><c> kilos</c></c>
+
+00:00:29.910 --> 00:00:33.960 align:start position:19%
+<c.colorE5E5E5>refers<00:00:30.570><c> to</c><00:00:30.599><c> keyboards</c><00:00:31.140><c> that</c><00:00:31.199><c> don't</c><00:00:31.560><c> have</c><00:00:31.830><c> a</c></c>
+
+00:00:31.859 --> 00:00:35.969 align:start position:19%
+number<c.colorE5E5E5><00:00:32.160><c> pad</c><00:00:32.489><c> but</c><00:00:32.969><c> this</c><00:00:33.149><c> one</c><00:00:33.329><c> does</c><00:00:33.660><c> have</c><00:00:33.690><c> a</c></c>
+
+00:00:33.960 --> 00:00:38.070 align:start position:19%
+<c.colorE5E5E5>number<00:00:34.200><c> pad</c><00:00:34.559><c> so</c><00:00:35.040><c> what</c><00:00:35.219><c> they've</c></c><c.colorCCCCCC><00:00:35.370><c> done</c></c><c.colorE5E5E5><00:00:35.579><c> is</c></c>
+
+00:00:35.969 --> 00:00:40.070 align:start position:19%
+they've<00:00:36.300><c> used</c><00:00:36.570><c> the</c><00:00:36.780><c> number</c><00:00:37.290><c> lock</c><00:00:37.469><c> to</c><00:00:37.800><c> either</c>
+
+00:00:38.070 --> 00:00:43.170 align:start position:19%
+enable<00:00:38.489><c> number</c><00:00:38.969><c> pad</c><00:00:39.149><c> functionality</c><00:00:39.870><c> or</c>
+
+00:00:40.070 --> 00:00:45.180 align:start position:19%
+arrows<00:00:41.070><c> num</c><00:00:41.489><c> law</c><c.colorE5E5E5><00:00:41.700><c> or</c><00:00:41.940><c> rather</c><00:00:42.149><c> print</c><00:00:42.960><c> screen</c></c>
+
+00:00:43.170 --> 00:00:47.010 align:start position:19%
+scroll<00:00:43.440><c> lock</c><00:00:43.590><c> pause</c><00:00:43.860><c> insert</c><c.colorE5E5E5><00:00:44.430><c> homepage</c><00:00:44.940><c> up</c></c>
+
+00:00:45.180 --> 00:00:48.539 align:start position:19%
+delete<00:00:45.510><c> end</c><00:00:45.750><c> page</c><00:00:46.110><c> down</c><00:00:46.410><c> all</c><00:00:46.649><c> that</c>
+
+00:00:47.010 --> 00:00:50.430 align:start position:19%
+<c.colorCCCCCC>functionality<00:00:47.399><c> you</c><00:00:47.640><c> can</c><00:00:47.820><c> choose</c><00:00:48.120><c> whether</c><00:00:48.390><c> you</c></c>
+
+00:00:48.539 --> 00:00:52.230 align:start position:19%
+have<00:00:48.690><c> a</c><c.colorE5E5E5><00:00:48.719><c> number</c><00:00:49.079><c> lock</c><00:00:49.260><c> or</c><00:00:49.469><c> those</c><00:00:49.920><c> things</c><00:00:50.250><c> which</c></c>
+
+00:00:50.430 --> 00:00:54.710 align:start position:19%
+is<00:00:50.550><c> actually</c><00:00:50.969><c> kind</c><00:00:51.210><c> of</c><00:00:51.300><c> cool</c><c.colorE5E5E5><00:00:51.480><c> it's</c><00:00:51.989><c> available</c></c>
+
+00:00:52.230 --> 00:00:57.690 align:start position:19%
+<c.colorE5E5E5>with<00:00:52.590><c> a</c><00:00:52.649><c> variety</c><00:00:52.920><c> of</c><00:00:53.370><c> Cherry</c><00:00:53.730><c> MX</c><00:00:53.820><c> switches</c></c>
+
+00:00:54.710 --> 00:01:00.480 align:start position:19%
+<c.colorE5E5E5>including<00:00:55.710><c> the</c><00:00:56.219><c> very</c><00:00:56.550><c> reason</c></c><c.colorCCCCCC><00:00:57.149><c> that</c><00:00:57.329><c> we</c></c><c.colorE5E5E5><00:00:57.480><c> are</c></c>
+
+00:00:57.690 --> 00:01:02.520 align:start position:19%
+redoing<00:00:58.440><c> this</c><00:00:58.829><c> particular</c><00:00:59.550><c> unboxing</c><c.colorCCCCCC><00:01:00.180><c> because</c></c>
+
+00:01:00.480 --> 00:01:06.210 align:start position:19%
+there<00:01:00.690><c> is</c><00:01:00.809><c> a</c><00:01:00.840><c> new</c><c.colorCCCCCC><00:01:01.230><c> option</c><00:01:01.770><c> for</c></c><c.colorE5E5E5><00:01:01.800><c> the</c></c><c.colorCCCCCC><00:01:02.039><c> quick-fire</c></c>
+
+00:01:02.520 --> 00:01:08.369 align:start position:19%
+TK<c.colorCCCCCC><00:01:03.030><c> Cherry</c></c><c.colorE5E5E5><00:01:03.780><c> MX</c><00:01:03.989><c> green</c><00:01:04.799><c> switches</c><00:01:05.060><c> so</c><00:01:06.060><c> the</c></c>
+
+00:01:06.210 --> 00:01:10.890 align:start position:19%
+<c.colorE5E5E5>keyboard<00:01:06.570><c> includes</c><00:01:06.960><c> a</c><00:01:07.140><c> removable</c><00:01:07.439><c> braided</c></c>
+
+00:01:08.369 --> 00:01:11.970 align:start position:19%
+cable<00:01:08.790><c> as</c><00:01:08.970><c> well</c><c.colorCCCCCC><00:01:09.000><c> as</c><00:01:09.720><c> a</c><00:01:09.750><c> key</c><00:01:10.140><c> cap</c><00:01:10.380><c> puller</c><00:01:10.650><c> and</c></c>
+
+00:01:10.890 --> 00:01:13.710 align:start position:19%
+<c.colorE5E5E5>we're<00:01:11.250><c> going</c><00:01:11.369><c> to</c><00:01:11.430><c> use</c><00:01:11.580><c> this</c><00:01:11.700><c> as</c><00:01:11.880><c> an</c></c>
+
+00:01:11.970 --> 00:01:16.080 align:start position:19%
+opportunity<c.colorCCCCCC><00:01:12.060><c> to</c><00:01:12.750><c> show</c><00:01:13.020><c> you</c><00:01:13.080><c> guys</c><00:01:13.380><c> just</c></c>
+
+00:01:13.710 --> 00:01:18.780 align:start position:19%
+<c.colorCCCCCC>exactly</c><c.colorE5E5E5><00:01:14.430><c> what</c><00:01:14.790><c> a</c><00:01:14.820><c> cherry</c><00:01:15.150><c> MX</c><00:01:15.330><c> green</c><00:01:15.750><c> switch</c></c>
+
+00:01:16.080 --> 00:01:20.939 align:start position:19%
+<c.colorE5E5E5>looks<00:01:16.680><c> like</c><00:01:17.009><c> ah</c><00:01:17.189><c> yes</c><00:01:17.640><c> it</c><00:01:18.119><c> looks</c><00:01:18.330><c> like</c></c><c.colorCCCCCC><00:01:18.420><c> pretty</c></c>
+
+00:01:18.780 --> 00:01:23.939 align:start position:19%
+much<c.colorE5E5E5><00:01:18.900><c> any</c><00:01:19.320><c> other</c><00:01:19.439><c> cherry</c><00:01:19.920><c> MX</c><00:01:20.040><c> switch</c><00:01:20.430><c> except</c></c>
+
+00:01:20.939 --> 00:01:25.290 align:start position:19%
+for<00:01:21.150><c> the</c><00:01:21.240><c> fact</c><c.colorE5E5E5><00:01:21.479><c> that</c><00:01:21.630><c> it</c><00:01:22.080><c> is</c><00:01:22.200><c> indeed</c><00:01:22.619><c> green</c><00:01:23.460><c> but</c></c>
+
+00:01:23.939 --> 00:01:27.270 align:start position:19%
+before<c.colorE5E5E5><00:01:24.299><c> we</c><00:01:24.390><c> get</c><00:01:24.509><c> into</c><00:01:24.780><c> the</c><00:01:24.900><c> typing</c></c>
+
+00:01:25.290 --> 00:01:29.009 align:start position:19%
+impressions<c.colorE5E5E5><00:01:25.799><c> from</c><00:01:26.100><c> both</c><00:01:26.280><c> me</c></c><c.colorCCCCCC><00:01:26.490><c> and</c><00:01:26.670><c> slick</c><00:01:27.030><c> let's</c></c>
+
+00:01:27.270 --> 00:01:31.200 align:start position:19%
+do<00:01:27.420><c> a</c><00:01:27.450><c> quick</c><00:01:27.689><c> recap</c><c.colorCCCCCC><00:01:27.869><c> of</c></c><c.colorE5E5E5><00:01:28.320><c> the</c><00:01:28.439><c> overall</c><00:01:28.770><c> features</c></c>
+
+00:01:29.009 --> 00:01:32.970 align:start position:19%
+<c.colorE5E5E5>here<00:01:29.369><c> so</c><00:01:29.520><c> it</c><00:01:29.610><c> has</c><00:01:29.759><c> function</c><00:01:30.210><c> keys</c><00:01:30.420><c> which</c><00:01:30.990><c> give</c></c>
+
+00:01:31.200 --> 00:01:35.670 align:start position:19%
+you<00:01:31.290><c> your</c><00:01:31.470><c> media</c><00:01:31.680><c> playback</c><00:01:31.920><c> play</c><00:01:32.340><c> pause</c><c.colorE5E5E5><00:01:32.579><c> stop</c></c>
+
+00:01:32.970 --> 00:01:37.590 align:start position:19%
+backwards<00:01:33.540><c> forwards</c><c.colorE5E5E5><00:01:34.110><c> mute</c><00:01:34.740><c> volume</c><00:01:35.220><c> up</c><00:01:35.369><c> and</c></c>
+
+00:01:35.670 --> 00:01:39.450 align:start position:19%
+volume<00:01:35.700><c> down</c><00:01:36.180><c> you've</c><00:01:36.630><c> also</c><00:01:36.780><c> got</c><00:01:37.079><c> a</c><c.colorE5E5E5><00:01:37.110><c> Windows</c></c>
+
+00:01:37.590 --> 00:01:40.829 align:start position:19%
+key<00:01:37.890><c> lock</c><00:01:38.130><c> which</c><00:01:38.340><c> can</c><c.colorCCCCCC><00:01:38.369><c> be</c><00:01:38.610><c> enabled</c><00:01:38.790><c> by</c><00:01:39.119><c> holding</c></c>
+
+00:01:39.450 --> 00:01:43.140 align:start position:19%
+function<00:01:39.869><c> and</c><00:01:39.990><c> clicking</c><00:01:40.259><c> on</c><c.colorCCCCCC><00:01:40.350><c> that</c><00:01:40.560><c> one</c><00:01:40.740><c> you</c></c>
+
+00:01:40.829 --> 00:01:44.820 align:start position:19%
+can<00:01:41.009><c> see</c><c.colorCCCCCC><00:01:41.189><c> ah</c></c><c.colorE5E5E5><00:01:41.400><c> yes</c><00:01:41.790><c> it</c><00:01:42.000><c> has</c><00:01:42.090><c> a</c><00:01:42.119><c> backlight</c></c><c.colorCCCCCC><00:01:42.570><c> so</c><00:01:42.840><c> you</c></c>
+
+00:01:43.140 --> 00:01:47.250 align:start position:19%
+can<00:01:43.350><c> use</c><00:01:43.470><c> the</c><c.colorCCCCCC><00:01:43.649><c> function</c><00:01:44.040><c> key</c><00:01:44.159><c> to</c><00:01:44.340><c> control</c></c>
+
+00:01:44.820 --> 00:01:49.530 align:start position:19%
+various<00:01:45.360><c> types</c><00:01:46.020><c> of</c><00:01:46.229><c> back</c><00:01:46.590><c> lightness</c><00:01:47.040><c> so</c><00:01:47.159><c> you</c>
+
+00:01:47.250 --> 00:01:51.030 align:start position:19%
+can<00:01:47.399><c> turn</c><c.colorE5E5E5><00:01:47.520><c> it</c><00:01:47.670><c> on</c><00:01:47.820><c> and</c><00:01:48.180><c> off</c><00:01:48.570><c> you</c><00:01:49.110><c> can</c><00:01:49.140><c> adjust</c></c>
+
+00:01:49.530 --> 00:01:54.509 align:start position:19%
+the<00:01:49.740><c> brightness</c><c.colorCCCCCC><00:01:49.770><c> between</c><00:01:50.579><c> five</c><00:01:51.000><c> different</c></c>
+
+00:01:51.030 --> 00:01:56.250 align:start position:19%
+<c.colorE5E5E5>levels<00:01:51.770><c> it</c><00:01:52.770><c> actually</c><00:01:53.220><c> gets</c><00:01:53.369><c> extremely</c><00:01:54.090><c> bright</c></c>
+
+00:01:54.509 --> 00:01:58.590 align:start position:19%
+at<00:01:54.689><c> the</c><00:01:54.780><c> brightest</c><00:01:55.110><c> level</c><00:01:55.380><c> looks</c><00:01:55.560><c> very</c><00:01:55.920><c> very</c>
+
+00:01:56.250 --> 00:02:00.600 align:start position:19%
+very<00:01:56.399><c> vibrant</c><c.colorE5E5E5><00:01:56.700><c> looks</c><00:01:57.119><c> quite</c><00:01:57.420><c> nice</c><00:01:57.659><c> and</c><00:01:57.899><c> you</c></c>
+
+00:01:58.590 --> 00:02:02.549 align:start position:19%
+can<00:01:58.799><c> choose</c><00:01:59.040><c> three</c><c.colorCCCCCC><00:01:59.369><c> different</c><00:01:59.790><c> modes</c><00:02:00.090><c> for</c><00:02:00.329><c> it</c></c>
+
+00:02:00.600 --> 00:02:04.439 align:start position:19%
+so<00:02:00.780><c> you</c><00:02:00.840><c> can</c><00:02:01.140><c> have</c><c.colorCCCCCC><00:02:01.259><c> it</c><00:02:01.320><c> in</c><00:02:01.530><c> breathing</c><00:02:02.130><c> mode</c><00:02:02.340><c> you</c></c>
+
+00:02:02.549 --> 00:02:07.049 align:start position:19%
+can<00:02:02.729><c> have</c><00:02:02.880><c> it</c><00:02:03.030><c> in</c><00:02:03.149><c> fully</c><00:02:03.390><c> backlit</c><00:02:03.659><c> mode</c><00:02:04.140><c> and</c>
+
+00:02:04.439 --> 00:02:09.629 align:start position:19%
+you<c.colorE5E5E5><00:02:05.040><c> can</c><00:02:05.219><c> have</c><00:02:05.399><c> it</c></c><c.colorCCCCCC><00:02:05.430><c> in</c><00:02:05.670><c> just</c><00:02:05.750><c> illuminate</c><00:02:06.750><c> the</c></c>
+
+00:02:07.049 --> 00:02:11.400 align:start position:19%
+WASD<c.colorCCCCCC><00:02:07.680><c> Keys</c><00:02:08.190><c> mode</c><00:02:08.729><c> the</c><00:02:09.000><c> other</c><00:02:09.090><c> thing</c><00:02:09.360><c> to</c><00:02:09.479><c> watch</c></c>
+
+00:02:09.629 --> 00:02:12.910 align:start position:19%
+out<c.colorCCCCCC><00:02:09.810><c> for</c><00:02:10.050><c> is</c><00:02:10.229><c> when</c><00:02:10.470><c> you</c><00:02:10.679><c> press</c><00:02:10.890><c> the</c><00:02:11.069><c> number</c></c>
+
+00:02:11.400 --> 00:02:15.460 align:start position:19%
+lock<00:02:11.640><c> those</c><00:02:11.940><c> arrow</c><00:02:12.270><c> keys</c>
+
+00:02:12.910 --> 00:02:16.690 align:start position:19%
+<c.colorCCCCCC>that<00:02:13.360><c> indicates</c><00:02:13.810><c> that</c></c><c.colorE5E5E5><00:02:13.930><c> you</c></c><c.colorCCCCCC><00:02:14.080><c> are</c><00:02:14.290><c> not</c><00:02:14.560><c> number</c></c>
+
+00:02:15.460 --> 00:02:18.370 align:start position:19%
+locked<00:02:15.820><c> which</c><00:02:16.120><c> is</c><00:02:16.240><c> a</c><00:02:16.270><c> little</c><00:02:16.570><c> bit</c>
+
+00:02:16.690 --> 00:02:20.350 align:start position:19%
+counterintuitive<00:02:17.050><c> I</c><00:02:17.620><c> wish</c><00:02:17.800><c> the</c><00:02:18.010><c> num</c><c.colorCCCCCC><00:02:18.190><c> lock</c></c>
+
+00:02:18.370 --> 00:02:21.550 align:start position:19%
+illuminated<00:02:19.030><c> or</c><00:02:19.120><c> something</c><c.colorE5E5E5><00:02:19.480><c> like</c><00:02:19.630><c> that</c><00:02:19.870><c> when</c></c>
+
+00:02:20.350 --> 00:02:24.280 align:start position:19%
+you<00:02:20.440><c> press</c><00:02:20.650><c> num</c><00:02:20.890><c> lock</c><00:02:21.040><c> and</c><00:02:21.220><c> when</c><00:02:21.310><c> you</c><00:02:21.400><c> were</c><00:02:21.460><c> an</c>
+
+00:02:21.550 --> 00:02:26.680 align:start position:19%
+unlock<00:02:21.910><c> mode</c><c.colorE5E5E5><00:02:22.540><c> it</c><00:02:22.960><c> has</c></c><c.colorCCCCCC><00:02:22.990><c> a</c><00:02:23.170><c> removable</c><00:02:23.470><c> cord</c><00:02:24.040><c> as</c></c>
+
+00:02:24.280 --> 00:02:28.240 align:start position:19%
+<c.colorCCCCCC>well</c><c.colorE5E5E5><00:02:24.520><c> as</c><00:02:24.730><c> a</c><00:02:24.760><c> nice</c><00:02:25.210><c> set</c><00:02:25.570><c> of</c><00:02:25.600><c> ergonomic</c><00:02:26.260><c> options</c></c>
+
+00:02:26.680 --> 00:02:30.640 align:start position:19%
+back<00:02:26.920><c> here</c><00:02:27.190><c> so</c><00:02:27.400><c> you've</c><00:02:27.520><c> got</c><00:02:27.760><c> nice</c><00:02:28.000><c> little</c>
+
+00:02:28.240 --> 00:02:33.880 align:start position:19%
+<c.colorE5E5E5>rubber</c><c.colorCCCCCC><00:02:28.540><c> feet</c><00:02:28.900><c> on</c></c><c.colorE5E5E5><00:02:29.110><c> the</c></c><c.colorCCCCCC><00:02:29.200><c> top</c><00:02:29.830><c> and</c><00:02:30.070><c> bottom</c></c><c.colorE5E5E5><00:02:30.280><c> of</c><00:02:30.550><c> the</c></c>
+
+00:02:30.640 --> 00:02:36.250 align:start position:19%
+keyboard<c.colorCCCCCC><00:02:30.820><c> as</c><00:02:31.270><c> well</c><00:02:31.330><c> as</c><00:02:32.110><c> rubber</c><00:02:32.590><c> tipped</c></c><c.colorE5E5E5><00:02:33.190><c> feet</c></c>
+
+00:02:33.880 --> 00:02:38.110 align:start position:19%
+<c.colorE5E5E5>that<00:02:34.180><c> can</c><00:02:34.210><c> flip</c><00:02:34.900><c> up</c><00:02:35.080><c> in</c><00:02:35.260><c> order</c><00:02:35.530><c> to</c><00:02:35.680><c> elevate</c><00:02:35.860><c> the</c></c>
+
+00:02:36.250 --> 00:02:40.330 align:start position:19%
+keyboard<00:02:36.670><c> a</c><00:02:36.820><c> touch</c><00:02:37.120><c> it</c><00:02:37.300><c> does</c><00:02:37.450><c> not</c><00:02:37.690><c> come</c><c.colorE5E5E5><00:02:37.960><c> with</c><00:02:38.080><c> a</c></c>
+
+00:02:38.110 --> 00:02:42.070 align:start position:19%
+wrist<00:02:38.410><c> rest</c><00:02:38.640><c> unfortunately</c><00:02:39.640><c> and</c><00:02:40.060><c> that</c><00:02:40.180><c> is</c>
+
+00:02:40.330 --> 00:02:43.870 align:start position:19%
+something<c.colorCCCCCC><00:02:40.510><c> that</c></c><c.colorE5E5E5><00:02:40.780><c> I</c><00:02:40.810><c> would</c></c><c.colorCCCCCC><00:02:40.960><c> have</c><00:02:41.410><c> liked</c><00:02:41.650><c> to</c><00:02:41.770><c> see</c></c>
+
+00:02:42.070 --> 00:02:46.060 align:start position:19%
+included<00:02:42.520><c> however</c><c.colorE5E5E5><00:02:42.670><c> does</c><00:02:42.970><c> a</c><00:02:43.000><c> fairly</c><00:02:43.270><c> value</c></c>
+
+00:02:43.870 --> 00:02:47.380 align:start position:19%
+conscious<00:02:44.200><c> option</c><00:02:44.740><c> in</c><00:02:44.830><c> terms</c><c.colorCCCCCC><00:02:44.860><c> of</c></c><c.colorE5E5E5><00:02:45.190><c> pricing</c></c><c.colorCCCCCC><00:02:45.430><c> so</c></c>
+
+00:02:46.060 --> 00:02:49.390 align:start position:19%
+you<00:02:46.120><c> got</c><00:02:46.360><c> to</c><00:02:46.480><c> just</c><00:02:46.630><c> kind</c><c.colorCCCCCC><00:02:46.780><c> of</c><00:02:46.870><c> remember</c></c><c.colorE5E5E5><00:02:47.110><c> that</c></c>
+
+00:02:47.380 --> 00:02:52.420 align:start position:19%
+that<00:02:47.500><c> comes</c><00:02:47.740><c> with</c><00:02:47.890><c> the</c><00:02:47.980><c> territory</c><c.colorCCCCCC><00:02:48.160><c> last</c></c><c.colorE5E5E5><00:02:49.060><c> thing</c></c>
+
+00:02:49.390 --> 00:02:55.300 align:start position:19%
+is<00:02:49.630><c> with</c><c.colorE5E5E5><00:02:50.200><c> function</c><00:02:51.040><c> held</c><00:02:51.400><c> you</c><00:02:51.850><c> can</c><00:02:52.030><c> press</c><00:02:52.240><c> the</c></c>
+
+00:02:52.420 --> 00:02:57.040 align:start position:19%
+<c.colorCCCCCC>Escape<00:02:52.810><c> key</c><00:02:52.840><c> and</c></c><c.colorE5E5E5><00:02:53.110><c> either</c><00:02:53.680><c> six</c><00:02:54.190><c> or</c><00:02:54.370><c> n</c><00:02:54.610><c> to</c><00:02:55.000><c> choose</c></c>
+
+00:02:55.300 --> 00:02:59.440 align:start position:19%
+between<00:02:55.540><c> six</c><00:02:56.050><c> key</c><00:02:56.260><c> rollover</c><00:02:56.770><c> which</c><00:02:56.920><c> is</c>
+
+00:02:57.040 --> 00:03:02.440 align:start position:19%
+compatible<00:02:57.340><c> with</c><c.colorCCCCCC><00:02:57.670><c> Macs</c><00:02:58.330><c> and</c></c><c.colorE5E5E5><00:02:58.600><c> all</c><00:02:58.750><c> pcs</c><00:02:59.170><c> so</c></c>
+
+00:02:59.440 --> 00:03:04.240 align:start position:19%
+compatibility<00:03:00.100><c> mode</c><c.colorE5E5E5><00:03:00.280><c> or</c></c><c.colorCCCCCC><00:03:00.520><c> any</c><00:03:01.120><c> key</c><00:03:01.810><c> rollover</c></c>
+
+00:03:02.440 --> 00:03:06.490 align:start position:19%
+which<00:03:02.590><c> allows</c><00:03:02.860><c> you</c><c.colorE5E5E5><00:03:02.980><c> to</c><00:03:03.070><c> press</c><00:03:03.250><c> all</c><00:03:03.460><c> the</c><00:03:03.970><c> keys</c></c>
+
+00:03:04.240 --> 00:03:09.070 align:start position:19%
+<c.colorCCCCCC>and<00:03:04.540><c> have</c><00:03:04.630><c> them</c><00:03:04.840><c> all</c><00:03:05.020><c> register</c><00:03:05.650><c> even</c></c><c.colorE5E5E5><00:03:05.890><c> over</c><00:03:06.190><c> USB</c></c>
+
+00:03:06.490 --> 00:03:10.930 align:start position:19%
+<c.colorE5E5E5>but<00:03:07.240><c> not</c><00:03:07.570><c> compatible</c></c><c.colorCCCCCC><00:03:07.900><c> with</c><00:03:08.110><c> Mac</c><00:03:08.380><c> and</c></c><c.colorE5E5E5><00:03:08.620><c> can</c></c>
+
+00:03:09.070 --> 00:03:12.970 align:start position:19%
+cause<00:03:09.250><c> some</c><00:03:09.490><c> pcs</c><00:03:09.940><c> to</c><00:03:10.120><c> fill</c><00:03:10.300><c> the</c><00:03:10.480><c> boot</c><00:03:10.630><c> so</c><c.colorE5E5E5><00:03:10.840><c> you</c></c>
+
+00:03:10.930 --> 00:03:14.350 align:start position:19%
+can<00:03:11.110><c> just</c><c.colorE5E5E5><00:03:11.290><c> change</c><00:03:11.830><c> that</c><00:03:12.040><c> mode</c><00:03:12.250><c> back</c><00:03:12.490><c> if</c></c><c.colorCCCCCC><00:03:12.760><c> that's</c></c>
+
+00:03:12.970 --> 00:03:16.030 align:start position:19%
+not<c.colorE5E5E5><00:03:13.120><c> working</c><00:03:13.360><c> for</c></c><c.colorCCCCCC><00:03:13.480><c> you</c><00:03:13.720><c> the</c></c><c.colorE5E5E5><00:03:13.840><c> last</c><00:03:14.050><c> thing</c><00:03:14.200><c> to</c></c>
+
+00:03:14.350 --> 00:03:18.040 align:start position:19%
+cover<00:03:14.560><c> before</c><c.colorE5E5E5><00:03:14.770><c> we</c><00:03:14.950><c> get</c><00:03:15.160><c> into</c><00:03:15.550><c> the</c><00:03:15.640><c> typing</c></c>
+
+00:03:16.030 --> 00:03:19.720 align:start position:19%
+<c.colorCCCCCC>experience<00:03:16.510><c> is</c><00:03:16.720><c> the</c></c><c.colorE5E5E5><00:03:17.020><c> cable</c><00:03:17.470><c> management</c></c><c.colorCCCCCC><00:03:17.680><c> on</c></c>
+
+00:03:18.040 --> 00:03:21.370 align:start position:19%
+<c.colorCCCCCC>the<00:03:18.160><c> bottom</c><00:03:18.430><c> so</c><00:03:18.610><c> the</c></c><c.colorE5E5E5><00:03:18.790><c> detachable</c><00:03:19.240><c> cable</c><00:03:19.600><c> can</c></c>
+
+00:03:19.720 --> 00:03:23.290 align:start position:19%
+<c.colorCCCCCC>be<00:03:19.810><c> routed</c></c><c.colorE5E5E5><00:03:19.959><c> either</c><00:03:20.200><c> straight</c><00:03:20.560><c> at</c><00:03:20.680><c> the</c><00:03:20.800><c> top</c><00:03:21.010><c> or</c></c>
+
+00:03:21.370 --> 00:03:25.240 align:start position:19%
+<c.colorE5E5E5>to<00:03:21.850><c> either</c><00:03:21.970><c> the</c><00:03:22.240><c> right</c></c><c.colorCCCCCC><00:03:22.270><c> or</c><00:03:22.450><c> left</c></c><c.colorE5E5E5><00:03:22.570><c> side</c><00:03:22.900><c> this</c><00:03:23.230><c> is</c></c>
+
+00:03:23.290 --> 00:03:27.580 align:start position:19%
+<c.colorE5E5E5>great<00:03:23.530><c> for</c><00:03:23.709><c> keeping</c><00:03:23.860><c> your</c><00:03:24.010><c> desk</c><00:03:24.310><c> tidy</c><00:03:24.610><c> now</c></c>
+
+00:03:25.240 --> 00:03:29.320 align:start position:19%
+typing<00:03:25.840><c> experience</c><c.colorE5E5E5><00:03:25.959><c> let's</c><00:03:26.650><c> start</c><00:03:26.980><c> with</c><00:03:27.190><c> the</c></c>
+
+00:03:27.580 --> 00:03:32.140 align:start position:19%
+big<00:03:27.730><c> thing</c><00:03:28.000><c> about</c><00:03:28.030><c> Cherry</c><00:03:28.540><c> MX</c><00:03:28.600><c> greens</c><00:03:29.080><c> I</c><00:03:29.170><c> mean</c>
+
+00:03:29.320 --> 00:03:35.200 align:start position:19%
+why<c.colorE5E5E5><00:03:29.470><c> are</c><00:03:29.560><c> they</c><00:03:29.709><c> so</c><00:03:29.980><c> rare</c></c><c.colorCCCCCC><00:03:30.459><c> well</c><00:03:31.300><c> because</c><00:03:31.930><c> they</c></c>
+
+00:03:32.140 --> 00:03:37.810 align:start position:19%
+require<c.colorE5E5E5><00:03:32.590><c> a</c><00:03:32.830><c> lot</c><00:03:33.130><c> of</c><00:03:33.190><c> force</c></c><c.colorCCCCCC><00:03:33.670><c> to</c></c><c.colorE5E5E5><00:03:33.820><c> press</c><00:03:34.240><c> at</c><00:03:34.510><c> 80</c></c>
+
+00:03:35.200 --> 00:03:39.910 align:start position:19%
+grams<00:03:35.830><c> of</c><00:03:36.130><c> actuation</c><00:03:36.459><c> force</c><00:03:37.090><c> at</c><00:03:37.420><c> the</c>
+
+00:03:37.810 --> 00:03:41.709 align:start position:19%
+actuation<00:03:38.110><c> point</c><00:03:38.470><c> that</c><00:03:38.620><c> is</c><00:03:38.770><c> nearly</c><c.colorE5E5E5><00:03:39.040><c> double</c></c>
+
+00:03:39.910 --> 00:03:44.380 align:start position:19%
+what<c.colorE5E5E5><00:03:39.940><c> is</c><00:03:40.209><c> required</c><00:03:40.600><c> for</c><00:03:40.840><c> Cherry</c><00:03:41.050><c> MX</c><00:03:41.140><c> browns</c></c>
+
+00:03:41.709 --> 00:03:46.840 align:start position:19%
+<c.colorE5E5E5>which<00:03:42.430><c> are</c><00:03:42.700><c> a</c><00:03:42.730><c> light</c><00:03:43.300><c> tactile</c><00:03:43.840><c> switch</c><00:03:44.140><c> and</c></c>
+
+00:03:44.380 --> 00:03:48.820 align:start position:19%
+Cherry<00:03:44.680><c> MX</c><00:03:44.739><c> Reds</c><00:03:45.280><c> which</c><00:03:45.489><c> are</c><00:03:45.640><c> a</c><00:03:45.670><c> light</c><00:03:46.060><c> linear</c>
+
+00:03:46.840 --> 00:03:52.450 align:start position:19%
+switch<00:03:47.170><c> so</c><00:03:47.350><c> both</c><00:03:47.500><c> of</c><00:03:47.530><c> those</c><00:03:47.739><c> are</c><c.colorE5E5E5><00:03:47.800><c> around</c><00:03:48.190><c> 45</c></c>
+
+00:03:48.820 --> 00:03:55.060 align:start position:19%
+grams<c.colorE5E5E5><00:03:49.150><c> and</c><00:03:49.510><c> it</c><00:03:50.230><c> is</c><00:03:50.380><c> a</c><00:03:50.410><c> full</c><00:03:50.830><c> 60</c><00:03:51.730><c> percent</c><00:03:52.120><c> higher</c></c>
+
+00:03:52.450 --> 00:03:57.370 align:start position:19%
+than<00:03:52.810><c> the</c><c.colorE5E5E5><00:03:52.989><c> 50</c><00:03:53.590><c> grams</c><00:03:53.860><c> required</c><00:03:54.430><c> for</c><00:03:54.730><c> Cherry</c><00:03:54.970><c> MX</c></c>
+
+00:03:55.060 --> 00:04:00.940 align:start position:19%
+<c.colorCCCCCC>blues<00:03:55.660><c> which</c><00:03:55.959><c> are</c><00:03:56.170><c> considered</c><00:03:57.070><c> to</c><00:03:57.220><c> be</c></c><c.colorE5E5E5><00:03:57.250><c> a</c></c>
+
+00:03:57.370 --> 00:04:03.489 align:start position:19%
+<c.colorE5E5E5>relatively<00:03:58.239><c> heavy</c></c><c.colorCCCCCC><00:03:58.510><c> Cherry</c><00:03:58.989><c> switch</c></c><c.colorE5E5E5><00:03:59.410><c> so</c><00:04:00.160><c> with</c></c>
+
+00:04:00.940 --> 00:04:05.620 align:start position:19%
+that<c.colorE5E5E5><00:04:01.270><c> said</c><00:04:01.630><c> how</c><00:04:01.870><c> does</c><00:04:01.930><c> it</c><00:04:02.260><c> feel</c><00:04:02.590><c> for</c><00:04:02.950><c> typing</c></c>
+
+00:04:03.489 --> 00:04:08.200 align:start position:19%
+all<c.colorE5E5E5><00:04:03.670><c> up</c><00:04:03.790><c> for</c><00:04:04.030><c> me</c></c><c.colorCCCCCC><00:04:04.090><c> it</c><00:04:04.330><c> was</c><00:04:04.480><c> too</c><00:04:04.690><c> heavy</c><00:04:04.870><c> just</c></c>
+
+00:04:05.620 --> 00:04:10.300 align:start position:19%
+<c.colorE5E5E5>right<00:04:06.190><c> out</c><00:04:06.340><c> of</c><00:04:06.370><c> the</c><00:04:06.550><c> gate</c><00:04:06.760><c> I'm</c><00:04:07.570><c> gonna</c><00:04:07.870><c> give</c></c><c.colorCCCCCC><00:04:08.050><c> it</c></c>
+
+00:04:08.200 --> 00:04:12.130 align:start position:19%
+a<00:04:08.290><c> shot</c><c.colorE5E5E5><00:04:08.320><c> in</c><00:04:08.739><c> the</c><00:04:08.830><c> longer</c><00:04:09.190><c> term</c><00:04:09.220><c> here</c><00:04:09.760><c> and</c><00:04:09.880><c> you</c></c>
+
+00:04:10.300 --> 00:04:13.540 align:start position:19%
+guys<00:04:10.450><c> can</c><00:04:10.690><c> stay</c><00:04:10.930><c> tuned</c><00:04:11.200><c> on</c><00:04:11.350><c> Twitter</c><00:04:11.709><c> or</c><00:04:11.950><c> in</c><00:04:12.040><c> the</c>
+
+00:04:12.130 --> 00:04:15.910 align:start position:19%
+forum<00:04:12.370><c> or</c><00:04:12.550><c> whatever</c><00:04:12.820><c> else</c><c.colorE5E5E5><00:04:13.030><c> I'll</c><00:04:13.209><c> let</c><00:04:13.360><c> you</c></c><c.colorCCCCCC><00:04:13.420><c> know</c></c>
+
+00:04:13.540 --> 00:04:18.130 align:start position:19%
+if<00:04:13.630><c> I</c><c.colorCCCCCC><00:04:13.720><c> change</c><00:04:13.959><c> my</c><00:04:14.140><c> mind</c><00:04:14.170><c> but</c><00:04:14.980><c> I</c><00:04:15.010><c> found</c></c><c.colorE5E5E5><00:04:15.370><c> that</c><00:04:15.580><c> it</c></c>
+
+00:04:15.910 --> 00:04:20.560 align:start position:19%
+<c.colorCCCCCC>was<00:04:16.150><c> just</c></c><c.colorE5E5E5><00:04:16.480><c> flat</c><00:04:16.780><c> out</c></c><c.colorCCCCCC><00:04:16.810><c> too</c><00:04:17.350><c> heavy</c><00:04:17.620><c> for</c><00:04:17.890><c> anything</c></c>
+
+00:04:18.130 --> 00:04:22.390 align:start position:19%
+but<c.colorE5E5E5><00:04:18.430><c> my</c><00:04:18.580><c> index</c><00:04:18.970><c> finger</c><00:04:19.330><c> and</c><00:04:19.480><c> my</c><00:04:19.900><c> middle</c><00:04:19.930><c> finger</c></c>
+
+00:04:20.560 --> 00:04:24.610 align:start position:19%
+<c.colorCCCCCC>so<00:04:20.770><c> for</c><00:04:20.979><c> my</c><00:04:21.100><c> ring</c><00:04:21.280><c> finger</c><00:04:21.609><c> and</c><00:04:21.640><c> pinky</c><00:04:22.030><c> finger</c></c>
+
+00:04:22.390 --> 00:04:25.290 align:start position:19%
+it<00:04:22.539><c> was</c><00:04:22.780><c> very</c><00:04:22.900><c> unnatural</c><c.colorE5E5E5><00:04:23.440><c> for</c></c><c.colorCCCCCC><00:04:23.979><c> me</c><00:04:24.070><c> to</c><00:04:24.190><c> type</c><00:04:24.400><c> on</c></c>
+
+00:04:24.610 --> 00:04:28.320 align:start position:19%
+<c.colorCCCCCC>it<00:04:24.729><c> now</c></c><c.colorE5E5E5><00:04:24.850><c> I</c></c>
+
+00:04:25.290 --> 00:04:28.860 align:start position:19%
+and<00:04:25.380><c> not</c><00:04:25.830><c> a</c><00:04:26.040><c> great</c><00:04:26.760><c> typist</c><c.colorCCCCCC><00:04:27.240><c> I</c><00:04:27.450><c> rarely</c><00:04:27.780><c> use</c><00:04:27.960><c> my</c></c>
+
+00:04:28.320 --> 00:04:30.840 align:start position:19%
+<c.colorE5E5E5>pinky</c>
+
+00:04:28.860 --> 00:04:32.250 align:start position:19%
+so<c.colorE5E5E5><00:04:29.130><c> wouldn't</c><00:04:29.880><c> have</c></c><c.colorCCCCCC><00:04:29.970><c> even</c><00:04:30.180><c> mattered</c><00:04:30.600><c> if</c><00:04:30.750><c> it</c></c>
+
+00:04:30.840 --> 00:04:33.870 align:start position:19%
+wasn't<00:04:31.140><c> too</c><c.colorCCCCCC><00:04:31.260><c> difficult</c><00:04:31.740><c> for</c></c><c.colorE5E5E5><00:04:31.800><c> me</c><00:04:31.980><c> to</c><00:04:32.070><c> press</c></c>
+
+00:04:32.250 --> 00:04:36.180 align:start position:19%
+with<00:04:32.430><c> my</c><00:04:32.550><c> ring</c><00:04:32.760><c> finger</c><c.colorE5E5E5><00:04:32.790><c> without</c><00:04:33.330><c> it</c><00:04:33.450><c> feeling</c><00:04:33.630><c> a</c></c>
+
+00:04:33.870 --> 00:04:38.010 align:start position:19%
+little<c.colorE5E5E5><00:04:33.960><c> bit</c><00:04:34.230><c> weird</c></c><c.colorCCCCCC><00:04:34.470><c> so</c><00:04:35.190><c> I'm</c><00:04:35.670><c> not</c><00:04:35.970><c> necessarily</c></c>
+
+00:04:36.180 --> 00:04:39.900 align:start position:19%
+the<c.colorE5E5E5><00:04:36.600><c> best</c><00:04:36.780><c> person</c></c><c.colorCCCCCC><00:04:37.170><c> to</c><00:04:37.260><c> go</c><00:04:37.380><c> okay</c><00:04:37.590><c> well</c><00:04:37.770><c> he</c><00:04:37.890><c> had</c></c>
+
+00:04:38.010 --> 00:04:42.090 align:start position:19%
+trouble<00:04:38.310><c> typing</c><c.colorE5E5E5><00:04:38.460><c> on</c><00:04:38.730><c> it</c><00:04:38.850><c> so</c></c><c.colorCCCCCC><00:04:38.970><c> therefore</c><00:04:39.510><c> it</c></c><c.colorE5E5E5><00:04:39.750><c> is</c></c>
+
+00:04:39.900 --> 00:04:45.360 align:start position:19%
+difficult<c.colorCCCCCC><00:04:40.200><c> to</c><00:04:40.530><c> type</c><00:04:40.740><c> on</c><00:04:40.920><c> because</c><00:04:41.250><c> slick</c><00:04:41.820><c> tried</c></c>
+
+00:04:42.090 --> 00:04:47.700 align:start position:19%
+it<c.colorE5E5E5><00:04:42.270><c> too</c><00:04:42.540><c> and</c><00:04:42.810><c> while</c><00:04:43.350><c> he</c><00:04:44.010><c> didn't</c><00:04:44.730><c> find</c><00:04:44.970><c> it</c><00:04:45.210><c> as</c></c>
+
+00:04:45.360 --> 00:04:49.830 align:start position:19%
+fast<00:04:45.810><c> as</c><00:04:46.140><c> Cherry</c><00:04:46.410><c> MX</c><00:04:46.500><c> blue</c><00:04:46.860><c> switches</c><00:04:46.950><c> not</c><00:04:47.430><c> even</c>
+
+00:04:47.700 --> 00:04:51.570 align:start position:19%
+by<00:04:47.850><c> a</c><c.colorCCCCCC><00:04:47.880><c> long</c><00:04:48.240><c> shot</c><00:04:48.270><c> he</c><00:04:48.960><c> didn't</c><00:04:49.200><c> find</c><00:04:49.320><c> the</c><00:04:49.470><c> typing</c></c>
+
+00:04:49.830 --> 00:04:54.390 align:start position:19%
+experience<00:04:49.950><c> physically</c><00:04:50.880><c> difficult</c><c.colorE5E5E5><00:04:51.090><c> because</c></c>
+
+00:04:51.570 --> 00:04:57.990 align:start position:19%
+he<00:04:52.290><c> just</c><00:04:52.470><c> has</c><00:04:52.710><c> plain</c><00:04:53.040><c> old</c><00:04:53.250><c> heavier</c><00:04:53.670><c> stronger</c>
+
+00:04:54.390 --> 00:04:59.700 align:start position:19%
+fingers<00:04:54.990><c> to</c><00:04:55.230><c> start</c><00:04:55.590><c> with</c><c.colorE5E5E5><00:04:55.800><c> so</c><00:04:56.370><c> right</c><00:04:57.120><c> now</c><00:04:57.360><c> we're</c></c>
+
+00:04:57.990 --> 00:05:01.800 align:start position:19%
+kind<00:04:58.200><c> of</c><c.colorCCCCCC><00:04:58.350><c> going</c><00:04:58.590><c> okay</c><00:04:58.710><c> results</c><00:04:59.250><c> are</c><00:04:59.370><c> a</c><00:04:59.400><c> mixed</c></c>
+
+00:04:59.700 --> 00:05:04.920 align:start position:19%
+bag<00:04:59.910><c> it</c><00:05:00.150><c> is</c><c.colorCCCCCC><00:05:00.180><c> a</c><00:05:00.270><c> different</c><00:05:00.900><c> experience</c><00:05:01.050><c> and</c><00:05:01.710><c> it</c></c>
+
+00:05:01.800 --> 00:05:06.930 align:start position:19%
+<c.colorE5E5E5>is<00:05:01.890><c> certainly</c><00:05:02.630><c> very</c><00:05:03.630><c> unique</c><00:05:04.440><c> I</c><00:05:04.620><c> mean</c><00:05:04.800><c> it's</c></c>
+
+00:05:04.920 --> 00:05:09.000 align:start position:19%
+<c.colorE5E5E5>probably<00:05:05.310><c> the</c><00:05:05.460><c> closest</c><00:05:06.060><c> we</c><00:05:06.210><c> can</c><00:05:06.420><c> get</c><00:05:06.660><c> with</c><00:05:06.900><c> a</c></c>
+
+00:05:06.930 --> 00:05:10.740 align:start position:19%
+<c.colorE5E5E5>Cherry<00:05:07.320><c> MX</c><00:05:07.410><c> which</c><00:05:07.980><c> to</c><00:05:08.520><c> something</c><00:05:08.850><c> like</c><00:05:08.940><c> a</c></c>
+
+00:05:09.000 --> 00:05:12.510 align:start position:19%
+buckling<00:05:09.570><c> spring</c><00:05:09.960><c> or</c><c.colorCCCCCC><00:05:10.140><c> even</c></c><c.colorE5E5E5><00:05:10.380><c> more</c><00:05:10.560><c> like</c><00:05:10.710><c> a</c></c>
+
+00:05:10.740 --> 00:05:15.480 align:start position:19%
+<c.colorE5E5E5>typewriter<00:05:11.310><c> field</c><00:05:11.700><c> where</c><00:05:11.880><c> it</c><00:05:11.940><c> really</c></c><c.colorCCCCCC><00:05:12.120><c> feels</c></c>
+
+00:05:12.510 --> 00:05:18.000 align:start position:19%
+<c.colorE5E5E5>like<00:05:12.720><c> there's</c><00:05:12.900><c> a</c><00:05:12.960><c> long</c><00:05:13.440><c> sort</c><00:05:14.400><c> of</c><00:05:14.520><c> resisting</c></c>
+
+00:05:15.480 --> 00:05:20.550 align:start position:19%
+press<c.colorE5E5E5><00:05:16.410><c> before</c><00:05:16.920><c> you</c><00:05:17.040><c> reach</c><00:05:17.190><c> that</c><00:05:17.370><c> actuation</c></c>
+
+00:05:18.000 --> 00:05:22.140 align:start position:19%
+point<00:05:18.320><c> but</c><00:05:19.320><c> we</c><00:05:19.470><c> didn't</c><00:05:19.890><c> find</c><c.colorE5E5E5><00:05:20.100><c> it</c><00:05:20.250><c> to</c><00:05:20.370><c> be</c></c>
+
+00:05:20.550 --> 00:05:24.270 align:start position:19%
+dramatically<c.colorE5E5E5><00:05:21.030><c> better</c></c><c.colorCCCCCC><00:05:21.360><c> than</c><00:05:21.750><c> some</c><00:05:21.960><c> of</c><00:05:22.080><c> the</c></c>
+
+00:05:22.140 --> 00:05:26.460 align:start position:19%
+other<00:05:22.290><c> more</c><00:05:22.530><c> available</c><00:05:23.250><c> and</c><00:05:23.460><c> less</c><00:05:23.610><c> expensive</c>
+
+00:05:24.270 --> 00:05:28.590 align:start position:19%
+switches<00:05:24.690><c> that</c><c.colorCCCCCC><00:05:24.840><c> are</c><00:05:24.990><c> out</c><00:05:25.140><c> there</c><00:05:25.170><c> now</c><00:05:25.860><c> I</c><00:05:25.890><c> have</c></c>
+
+00:05:26.460 --> 00:05:31.110 align:start position:19%
+seen<c.colorE5E5E5><00:05:26.730><c> reports</c></c><c.colorCCCCCC><00:05:26.910><c> of</c><00:05:27.420><c> people</c></c><c.colorE5E5E5><00:05:27.900><c> saying</c><00:05:28.260><c> that</c></c><c.colorCCCCCC><00:05:28.350><c> they</c></c>
+
+00:05:28.590 --> 00:05:33.330 align:start position:19%
+bought<00:05:28.860><c> Cherry</c><00:05:29.340><c> MX</c><00:05:29.400><c> green</c><00:05:29.880><c> keyboards</c><c.colorE5E5E5><00:05:30.510><c> and</c><00:05:30.660><c> got</c></c>
+
+00:05:31.110 --> 00:05:34.620 align:start position:19%
+used<c.colorE5E5E5><00:05:31.350><c> to</c><00:05:31.470><c> it</c></c><c.colorCCCCCC><00:05:31.530><c> over</c><00:05:31.710><c> time</c><00:05:31.860><c> but</c><00:05:32.700><c> I</c></c><c.colorE5E5E5><00:05:32.730><c> think</c></c><c.colorCCCCCC><00:05:33.030><c> that'll</c></c>
+
+00:05:33.330 --> 00:05:36.930 align:start position:19%
+depend<c.colorE5E5E5><00:05:33.570><c> on</c><00:05:33.870><c> a</c><00:05:33.900><c> little</c><00:05:34.110><c> bit</c><00:05:34.230><c> of</c><00:05:34.320><c> a</c><00:05:34.380><c> long-term</c></c>
+
+00:05:34.620 --> 00:05:39.630 align:start position:19%
+<c.colorE5E5E5>testing<00:05:35.280><c> session</c><00:05:35.700><c> now</c><00:05:35.940><c> speaking</c></c><c.colorCCCCCC><00:05:36.540><c> of</c><00:05:36.780><c> getting</c></c>
+
+00:05:36.930 --> 00:05:41.250 align:start position:19%
+used<00:05:37.200><c> to</c><c.colorE5E5E5><00:05:37.320><c> things</c><00:05:37.560><c> over</c><00:05:37.860><c> time</c><00:05:38.040><c> audible.com</c></c><c.colorCCCCCC><00:05:38.700><c> you</c></c>
+
+00:05:39.630 --> 00:05:43.110 align:start position:19%
+guys<00:05:39.810><c> are</c><00:05:40.050><c> likely</c><c.colorE5E5E5><00:05:40.530><c> getting</c><00:05:40.770><c> used</c><00:05:40.980><c> to</c><00:05:41.100><c> us</c></c>
+
+00:05:41.250 --> 00:05:44.430 align:start position:19%
+<c.colorE5E5E5>talking<00:05:41.640><c> about</c><00:05:41.700><c> audible</c><00:05:42.240><c> but</c><00:05:42.510><c> do</c><00:05:42.720><c> you</c><00:05:42.840><c> think</c></c>
+
+00:05:43.110 --> 00:05:46.500 align:start position:19%
+you<00:05:43.320><c> could</c><00:05:43.500><c> get</c><c.colorE5E5E5><00:05:43.650><c> used</c></c><c.colorCCCCCC><00:05:43.710><c> to</c></c><c.colorE5E5E5><00:05:44.040><c> having</c></c><c.colorCCCCCC><00:05:44.100><c> a</c></c>
+
+00:05:44.430 --> 00:05:48.960 align:start position:19%
+subscription<c.colorE5E5E5><00:05:44.730><c> for</c><00:05:45.450><c> a</c><00:05:45.510><c> new</c></c><c.colorCCCCCC><00:05:45.780><c> audiobook</c><00:05:46.380><c> to</c></c>
+
+00:05:46.500 --> 00:05:51.270 align:start position:19%
+listen<00:05:46.800><c> to</c><00:05:46.920><c> every</c><00:05:47.130><c> month</c><00:05:47.340><c> I</c><00:05:47.550><c> hope</c><00:05:48.510><c> so</c><00:05:48.750><c> because</c>
+
+00:05:48.960 --> 00:05:53.460 align:start position:19%
+audible.com<00:05:49.560><c> has</c><00:05:50.070><c> just</c><00:05:50.430><c> such</c><00:05:50.580><c> a</c><c.colorCCCCCC><00:05:50.610><c> service</c><00:05:51.060><c> and</c></c>
+
+00:05:51.270 --> 00:05:55.620 align:start position:19%
+like<c.colorE5E5E5><00:05:51.840><c> anything</c><00:05:52.260><c> highly</c><00:05:52.620><c> addictive</c><00:05:53.010><c> the</c><00:05:53.160><c> first</c></c>
+
+00:05:53.460 --> 00:05:57.180 align:start position:19%
+one<00:05:53.700><c> is</c><00:05:53.910><c> free</c><c.colorCCCCCC><00:05:54.540><c> I</c><00:05:54.780><c> think</c><00:05:54.990><c> we've</c><00:05:55.440><c> actually</c></c>
+
+00:05:55.620 --> 00:05:59.190 align:start position:19%
+talked<00:05:56.100><c> about</c><c.colorCCCCCC><00:05:56.220><c> the</c><00:05:56.460><c> Hunger</c><00:05:56.730><c> Games</c></c><c.colorE5E5E5><00:05:56.760><c> by</c><00:05:57.150><c> Suzanne</c></c>
+
+00:05:57.180 --> 00:06:01.350 align:start position:19%
+<c.colorE5E5E5>Collins<00:05:57.810><c> being</c><00:05:58.260><c> available</c></c><c.colorCCCCCC><00:05:58.500><c> on</c><00:05:58.830><c> audible.com</c></c>
+
+00:05:59.190 --> 00:06:03.420 align:start position:19%
+before<00:05:59.850><c> but</c><00:06:00.120><c> with</c><00:06:00.330><c> Catching</c><00:06:00.720><c> Fire</c><00:06:00.750><c> coming</c><00:06:01.230><c> out</c>
+
+00:06:01.350 --> 00:06:05.070 align:start position:19%
+in<00:06:01.470><c> theaters</c><c.colorCCCCCC><00:06:01.740><c> right</c></c><c.colorE5E5E5><00:06:02.040><c> now</c></c><c.colorCCCCCC><00:06:02.100><c> this</c><00:06:02.820><c> seems</c><00:06:03.060><c> like</c><00:06:03.180><c> a</c></c>
+
+00:06:03.420 --> 00:06:07.260 align:start position:19%
+great<c.colorCCCCCC><00:06:03.720><c> opportunity</c><00:06:04.440><c> to</c><00:06:04.530><c> bring</c></c><c.colorE5E5E5><00:06:04.650><c> it</c><00:06:04.830><c> up</c><00:06:04.920><c> again</c></c>
+
+00:06:05.070 --> 00:06:08.610 align:start position:19%
+<c.colorE5E5E5>the<00:06:05.730><c> movie</c><00:06:06.030><c> is</c><00:06:06.150><c> likely</c><00:06:06.450><c> to</c><00:06:06.690><c> be</c><00:06:06.780><c> awesome</c><00:06:06.960><c> but</c></c>
+
+00:06:07.260 --> 00:06:11.820 align:start position:19%
+stop<00:06:07.560><c> me</c><00:06:07.710><c> if</c><00:06:07.830><c> you've</c><00:06:07.950><c> heard</c><00:06:07.980><c> this</c><c.colorCCCCCC><00:06:08.160><c> one</c><00:06:08.460><c> before</c></c>
+
+00:06:08.610 --> 00:06:13.770 align:start position:19%
+the<00:06:09.240><c> book</c><00:06:09.420><c> is</c><00:06:09.570><c> always</c><00:06:09.750><c> better</c><c.colorCCCCCC><00:06:10.250><c> mmm</c><00:06:11.310><c> head</c><00:06:11.700><c> on</c></c>
+
+00:06:11.820 --> 00:06:15.960 align:start position:19%
+<c.colorE5E5E5>over<00:06:12.060><c> to</c><00:06:12.090><c> audible.com</c><00:06:12.540><c> slash</c><00:06:12.870><c> Linus</c><00:06:13.500><c> for</c><00:06:13.680><c> our</c></c>
+
+00:06:13.770 --> 00:06:18.450 align:start position:19%
+free<00:06:14.040><c> trial</c><00:06:14.340><c> and</c><00:06:14.550><c> to</c><00:06:14.640><c> sign</c><00:06:14.850><c> up</c><c.colorCCCCCC><00:06:14.880><c> for</c><00:06:15.090><c> a</c><00:06:15.330><c> monthly</c></c>
+
+00:06:15.960 --> 00:06:20.580 align:start position:19%
+<c.colorCCCCCC>audio<00:06:16.800><c> book</c><00:06:17.070><c> from</c><00:06:17.580><c> again</c><00:06:18.000><c> that</c><00:06:18.300><c> is</c></c>
+
+00:06:18.450 --> 00:06:21.720 align:start position:19%
+audible.com<c.colorCCCCCC><00:06:18.870><c> and</c></c><c.colorE5E5E5><00:06:19.440><c> ten</c><00:06:20.040><c> points</c><00:06:20.370><c> if</c><00:06:20.460><c> you</c><00:06:20.550><c> can</c></c>
+
+00:06:20.580 --> 00:06:23.880 align:start position:19%
+<c.colorCCCCCC>figure<00:06:20.850><c> out</c></c><c.colorE5E5E5><00:06:20.970><c> how</c></c><c.colorCCCCCC><00:06:21.120><c> many</c><00:06:21.300><c> times</c><00:06:21.510><c> I</c><00:06:21.660><c> said</c></c>
+
+00:06:21.720 --> 00:06:27.210 align:start position:19%
+audible.com<c.colorCCCCCC><00:06:22.260><c> in</c><00:06:22.770><c> the</c><00:06:22.920><c> last</c><00:06:23.130><c> minute</c></c><c.colorE5E5E5><00:06:23.490><c> or</c><00:06:23.580><c> so</c></c><c.colorCCCCCC><00:06:23.730><c> of</c></c>
+
+00:06:23.880 --> 00:06:28.980 align:start position:19%
+<c.colorE5E5E5>this<00:06:24.030><c> video</c><00:06:24.300><c> I</c><00:06:25.130><c> think</c><00:06:26.130><c> we're</c><00:06:26.340><c> done</c><00:06:26.460><c> here</c></c><c.colorCCCCCC><00:06:26.520><c> guys</c></c>
+
+00:06:27.210 --> 00:06:30.570 align:start position:19%
+as<00:06:27.540><c> always</c><c.colorCCCCCC><00:06:27.750><c> like</c></c><c.colorE5E5E5><00:06:28.200><c> this</c><00:06:28.350><c> video</c><00:06:28.560><c> if</c><00:06:28.710><c> you</c><00:06:28.770><c> liked</c></c>
+
+00:06:28.980 --> 00:06:32.310 align:start position:19%
+it<c.colorE5E5E5><00:06:29.130><c> dislike</c><00:06:29.370><c> it</c><00:06:29.700><c> if</c><00:06:29.760><c> you</c><00:06:29.820><c> disliked</c><00:06:30.270><c> it</c><00:06:30.420><c> leave</c><00:06:30.540><c> a</c></c>
+
+00:06:30.570 --> 00:06:34.440 align:start position:19%
+<c.colorE5E5E5>comment<00:06:31.050><c> and</c><00:06:31.170><c> let</c></c><c.colorCCCCCC><00:06:31.260><c> me</c><00:06:31.410><c> know</c><00:06:31.560><c> what</c><00:06:31.800><c> you</c><00:06:31.920><c> think</c></c>
+
+00:06:32.310 --> 00:06:36.480 align:start position:19%
+<c.colorCCCCCC>if<00:06:32.610><c> you'd</c><00:06:32.880><c> like</c></c><c.colorE5E5E5><00:06:33.030><c> to</c><00:06:33.210><c> try</c></c><c.colorCCCCCC><00:06:33.450><c> out</c><00:06:33.570><c> Cherry</c><00:06:33.870><c> MX</c><00:06:33.960><c> green</c></c>
+
+00:06:34.440 --> 00:06:38.130 align:start position:19%
+switches<c.colorE5E5E5><00:06:34.470><c> and</c><00:06:35.100><c> as</c><00:06:35.490><c> always</c><00:06:35.700><c> guys</c><00:06:36.060><c> don't</c><00:06:36.390><c> forget</c></c>
+
+00:06:36.480 --> 00:06:38.729 align:start position:19%
+<c.colorCCCCCC>to<00:06:36.660><c> subscribe</c><00:06:37.110><c> to</c></c><c.colorE5E5E5><00:06:37.140><c> Linus</c><00:06:37.530><c> tech</c><00:06:37.650><c> tips</c><00:06:37.860><c> from</c></c><c.colorCCCCCC><00:06:37.890><c> one</c></c>
+
+00:06:38.130 --> 00:06:42.199 align:start position:19%
+<c.colorE5E5E5>boxing's</c>
+
+00:06:38.729 --> 00:06:42.199 align:start position:19%
+use<00:06:38.849><c> and</c><00:06:39.089><c> other</c><00:06:39.509><c> computer</c><00:06:39.930><c> videos</c>
+

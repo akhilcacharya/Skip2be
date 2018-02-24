@@ -1,0 +1,499 @@
+30	logitech brought us here to switzerland
+2040	to check out the g 900 chaos spectrum an
+4110	interesting looking mouse but with some
+5819	really bold claims especially when
+7560	comparing it to a wired mouse which
+9630	traditionally would have been a lot
+11160	better in like almost every possible
+13559	metric they claim however that it has
+16170	now reversed s-- they're claiming that
+17699	the g 900 is better than a wired mouse
+20220	let's do some science and figure it out
+30790	so we're starting off the RF labs this
+33260	is probably one of the most important
+34550	things about this most is its wireless
+36890	performance that's what they've been
+37940	trumping really really hard this whole
+39890	time so we need to benchmark it we're
+42080	going to test it with huge amounts of
+43910	interference without interference all
+45650	this different kind of stuff and see how
+46730	it compares to other mice we're going to
+48860	do that by coming inside of an anechoic
+50809	chamber but this time it's on the
+52670	anechoic chamber in terms of sound it's
+54470	an anechoic chamber in terms of signals
+56390	so RF Wi-Fi bluetooth all that kind of
+58340	stuff isn't going to be able to leave
+59690	the room once the door is closed and is
+61850	gonna be able to come on in to the
+63409	inside but to cause that interference we
+66290	have this antenna right here which is
+67970	going to be shooting out massive amounts
+69710	of amplified RF Wi-Fi and Bluetooth
+72020	signals what they did was they went to a
+73940	land of about 300 people measured the
+76640	signal noise and then amplified that by
+79190	a little bit more to make a crazy
+81049	worst-case scenario over on the other
+83240	side the room there's all this foam kind
+84950	of stuff everywhere that's so that
+86360	signals aren't bouncing around
+87799	throughout the room and you just get a
+89270	solid trajectory so it's better and more
+91490	consistent for measurement here we have
+93350	the most rigs so this is a jogger that
+95420	keeps a pad moving under the mouse so
+97880	that the actual sensor is constantly
+100369	firing and sending information which is
+101930	important because you need to most be
+103070	actually working and then the mouse is
+105049	held in place above that across the room
+108530	a little bit right here is the receiver
+111109	so this guy is actually talking to the
+113780	mouse that wire goes through a tube to
+115579	the outside and then we're measuring
+117310	actually the tracking of the mouse out
+119960	there where the actual interesting stuff
+121880	is let's check that out so as you can
+123619	see back here on the spectrum analyzer
+125179	they have a crazy amount of noise being
+127909	fired in that room right now but over
+130820	here you can see a tracking tester where
+133430	it's just tracing the cursor movement of
+135260	the mouse as that joggers going around
+137060	and it is in a very I'm going to reset
+139310	this you can see it drawing it isn't a
+140960	very consistent kind of pattern which is
+143120	good there's going to be some drift from
+144770	the sensor but that's actually fine all
+146750	sensors have some amount of drift but
+149450	the good thing about it is that it's
+150830	consistent it's not going all over the
+152210	place and if you're not making robotic
+154160	exact circular movements it's going to
+156380	be extremely pretty
+157290	where everything's going to be anyway so
+158730	this is a good sign and this is for the
+161340	G 900 so now we're testing the Razer
+163409	Mamba exact same scenario this time
+165540	we're going to try it with the signal
+166860	noise on and with the signal noise off
+169049	so you can see what it is in a more
+171150	perfect scenario the Mamba is currently
+173730	set up and good to go powered on joggers
+175950	running and ten is over here let's go
+178260	check the results all right so the Mamba
+180599	2015 is hooked up inside that's what's
+182579	running right now on the tracking tester
+184620	as you can see on the spectrum analyzer
+186239	in the back there's nothing really going
+187980	on that's because we have the antenna
+189690	off so what I'm going to do is come back
+192329	here crank the antenna on so I'm going
+196319	to turn this dial a little bit there
+198540	that's all good to go the spectrum is
+200970	now crazy you'll see it actually moves
+202920	where it's where it's kind of firing
+204690	huge amounts of spectrum so it's not
+206250	going to be a consistent problem you can
+207930	already see on here I'm going to reset
+210180	it so that we have some more room to
+211590	actually see it get messed up but it's
+214319	jumped all over the place these lines
+216299	that you see is where it stopped
+217980	tracking completely for a second and
+219780	then engage back in somewhere else
+221340	you can see that instead of just simple
+223319	sensor drift it's actually jumping all
+225449	over the place I'm going to reset it
+226739	here it's going okay at the start but
+229319	then you see one big jump there I'll
+232169	wait for it to do a few more there's one
+234959	jump right there so there's going to be
+236940	bad spots sometimes it'll be okay
+238980	because maybe it's away from where the
+241199	antennas firing huge amounts of
+242639	information but then other times as you
+244560	saw before it might actually start
+246000	jumping all over the place because it's
+247349	kind of getting overpowered which is not
+249299	very good so there's a line there
+251069	there's another line there it's getting
+252569	a little bit worse now yeah so that's
+254730	the mob of 2015 let's move on all right
+257849	next up on the chopping block is the
+259470	Ouroboros a little bit of an older Mouse
+261389	it's currently running on the jogger
+263070	it's sensor is currently over here we're
+264990	good to go one other little bit of
+266490	information that I want to give you guys
+268139	is this is the antenna that's receiving
+270180	the signal so when we show you guys the
+272159	spectrum analyzer this is the thing
+274139	that's outputting that information just
+275520	in case you're interested so next up
+277800	razor or Bose that's on the inside right
+280289	now you see it going with nothing really
+282419	happening on the spectrum analyzer seems
+284639	fine a little bit of sensor drift which
+286440	is completely normal
+287580	now let's hurt it a little bit
+289490	Oh turn things up there we go spectrum
+296750	analyzers going like crazy stuff
+298069	sweeping across like we saw before
+300340	moving back now that happy little bit of
+304250	sensor drift is no longer really very
+306080	happy as you can see there's already two
+308270	major jumps and it's completely changed
+310550	direction three major jumps now yeah so
+314330	not the clean nice patterned thing that
+317660	we saw with the G 900 it's a little bit
+319490	more of a mess now looking back there's
+321319	one two three four five six major jumps
+326030	I think and instead of just drifting
+328009	nicely upwards like it was before you're
+329900	going up and then cranking way over to
+331880	the right and it's probably going to
+333470	screw up again later on not the end of
+335479	the world but not perfect
+337039	last but potentially not least is this
+339650	sensei so we have the sense I rigged up
+341389	on the jogger and we have its receiver
+343220	on the other side something to notice
+345590	about the configuration of things as
+347060	well the receivers are always placed in
+349190	line with the very front of the mouse
+351080	and the way that the jogger works
+352819	there's little arms going all the way
+354680	around so that it can hold it in place
+356659	perfectly despite the movement of the
+359000	actual jogger and it doesn't have to
+361400	press any button so it's not pressing
+362900	left or right buttons it's not pressing
+364370	the back buttons it's not doing any of
+365900	that kind of stuff and it's holding it
+367490	in place which is pretty cool so the
+369650	sensei isn't doing so great
+372590	you can see on the spectrum analyzer
+373639	there's nothing really going on we
+375560	basically have it off and that's not
+379370	just simple normal nice unified sensor
+383300	drift
+383719	that's quite messy let's start over
+385969	again somewhere clean give it a nice
+387530	clean slate and then hit it with the
+390110	antenna as hard as we can go
+394360	just to see what happened Wow okay so
+397310	this one oh that is just that is
+401300	horrible so one of the interesting
+403190	things that this one does that none of
+404990	the other ones actually had a problem
+406400	with as you can see the lines get kind
+408919	of squiggly and they start doing weird
+411430	spirals and actually making things that
+414710	aren't at all the shape of what it's
+416630	doing which is a huge unusable problem
+420560	again something to remember this
+422360	is an insane worst-case scenario it's
+424610	beyond like a normal kind of worst-case
+427490	scenario because they went from a like
+429620	300 person ComputerLand which is an
+432139	insane scenario for any wireless device
+433879	that made it a little bit harder but
+436180	this thing is completely failing the
+438889	other ones were failing pretty hard and
+440599	the G 900 had zero issues whatsoever so
+443900	I think that's pretty cool so to create
+446659	the device the G 900 that beats all of
+449419	the other devices in this crazy
+450800	worst-case scenario test it takes a lot
+452840	of things skill science testing all that
+455360	kind of stuff it's not just by the
+457340	better thing put the better thing in and
+459139	then you have a better object it's not
+461120	that simple so what they do is they use
+463129	simulators in order to test what the
+466039	actual end result is going to be that's
+468319	not always perfect and just putting
+470479	something in there and running a single
+471740	error won't magically solve all of your
+473120	problems that's where the skill
+474650	component comes in they're able to get
+476300	their RF simulator results to be
+478490	extremely similar to their actual
+481400	measurement through skill that's
+483590	extremely important because it helps
+485779	with your iteration process you that way
+487610	you don't have to build a new full
+489620	device every single time you want to
+491449	test it which is going to help a lot
+493009	because they have to release a product
+494389	sometime then they also have to pay
+496940	attention to where different components
+498919	within the mouse go like the battery
+501529	battery is a huge deal with some older
+504110	mice that even Logitech had the
+506240	positioning of the battery could cause
+507889	weak spots in your signal as it went
+510199	around but the sizing and the
+511969	positioning of this battery is a little
+513320	bit better they they have it on a
+514820	different z-axis within the mouse so
+517010	that the emitter should be able to have
+519289	a strong signal going all the way around
+521019	super cool next up we've got the sensor
+523940	lab so what we're going to be doing here
+525410	is testing motion latency so how long it
+528560	takes for a movement of the mouse to
+531019	actually go to the computer we're not
+532519	worried about the last rest of the
+533720	latency in the system this is just what
+535430	Logitech would have control over so
+537230	we're going to do that by coming in here
+539449	and using this turntable the service on
+541760	here is just like a SteelSeries qck type
+544190	surface so probably something that's
+546050	pretty common in someone's home we're
+548000	going to start with the logitech g930
+555570	exactly how much someone would be
+557070	pushing down on the surface because II
+558570	don't want to grind against the mousepad
+559950	you don't do anything like that that
+561300	would mess up with the results next up
+563130	we'll have a Razer chroma which is
+564840	actually a wired mouse so we'll compare
+566520	it against that and then we have a Mamba
+568920	2015 which is another competitor
+570840	wireless mouse there's a little bit of
+573350	plus/minus here that could be plus zero
+576360	to one millisecond or anywhere in
+578460	between due to polling rate but spoiler
+580500	alert it's going to win by more than
+582090	that so it doesn't really matter
+584010	another thing I forgot to mention is
+585690	that the mouse is placed very
+587490	specifically on the turntable mousepad
+590190	it's placed at a 45 degree angle so that
+592620	x and y axes are contributing the exact
+595260	same amount they have to be very precise
+597090	about these things because extra
+598620	variables like that could screw with
+600150	something in a way that would mess up
+601920	your results so they have the right
+604290	amount of tension down they have the
+605790	right angle and they have a huge amount
+608460	of samples all of which are good alright
+610440	so we're going to run our first test
+611580	here you can go right now and what
+614340	you'll see on the screen in a moment is
+616080	it's going to accumulate data over time
+618270	so what's actually going to be displayed
+620360	graphically is rounded a little bit just
+623280	more for presentation so that you can
+624900	kind of see where about things are but
+627300	below that is more of the hard core math
+629820	no rounding and you can see the mean so
+632070	we have to wait a little bit for it to
+633600	gather some data and then we'll give you
+635520	a more accurate need so after taking 33
+639120	samples of movement the mean latency was
+641790	four point seven nine milliseconds so
+644970	that might not sound impressive yet but
+647280	just wait till we try the other mice
+648450	we're about to run test - this is
+650940	against the Razer chroma which is
+652260	actually a wired mouse you can see here
+654420	in the device info it is in fact the
+656100	Razer chroma we're going to be comparing
+657930	it against our previous file which was
+659820	running the G 900 so we're gonna have
+661920	blue data showing up on the chart that's
+664830	for the previous Mouse and the green
+667350	data you as you can see in here color
+669210	green will be actually for the chroma so
+671940	let's run the test so we have our first
+673980	results the G 900 versus the Razer
+676320	chroma as you can see here the green is
+679110	much higher than the blue which means
+680520	that the green lost this is motion
+683100	latency so you want a low number as you
+685650	can see the mute
+686740	in for the G 900 was 4.8 as we already
+689800	discussed the blue is the same numbers
+691810	that we had running on our previous
+693040	tests but the mean for the chroma is
+695830	about six point eight eight which is two
+699220	milliseconds more which is a lot because
+701410	you have to pay attention to each
+704080	segment of your latency throughout the
+705670	entire entire equation so your graphics
+708850	card your monitor your mouse all that
+710320	kind of stuff and reducing each one by
+712959	relatively small amounts is a huge deal
+716350	so you can get the total number lower
+718120	so having Logitech's number of the input
+720160	from their mouse due to motion lower is
+722020	good and that means that it's lower than
+724570	a wired mouse which is pretty damn
+726190	impressive another kind of cool thing to
+727540	look at is that the lowest so the
+730330	fastest rate at which the motion was
+732370	able to go from the mouse to the
+733839	computer for the Razer Mouse was about
+736480	five point five which tied the highest
+740080	or worst results from the G 900 just
+742570	kind of a fun little tidbit so this time
+744640	the most we are testing is the Razer
+746050	Mamba as you can see in the top we're
+748089	comparing it yet again against the G 900
+750490	so the compare with file is the original
+752589	G 900 tests that we ran again we're
+754899	doing 33 33 trials the exact same that
+757600	we're doing every time this time it's
+759250	going to show up as pink so yeah let's
+761500	get started okay so we're done testing
+763870	the Mamba 2015 and this is kind of why I
+767589	haven't liked Wireless mice in the past
+769990	and probably why a lot of people haven't
+771820	either look at the data it's a mess
+773950	you've got results from 0.5 which are
+776380	junk data we'll explain why that's junk
+778329	data in a moment all the way up to 18
+780700	point 5 which is probably caused due to
+783910	lag in the transmission of data over the
+786550	wireless signal if it misses a report
+789190	and then has to do it later it's going
+790540	to be massively delayed your mean is at
+793180	about nine point three which is much
+795970	higher than the four point seven nine of
+799420	the G 900 but probably more within the
+802690	actual capabilities of the sensor the
+805149	problems with the junk data and the
+807220	really really high late reported data is
+810339	more due to the implementation of the
+812680	sensor instead of the standard
+814149	capabilities
+815199	last but not least we have click latency
+817810	so realistically what all of these
+819160	different stations have been
+820510	explaining is that we don't necessarily
+821950	need to be afraid of Wireless anymore I
+824320	was afraid of Wireless before but I
+826660	think that was justified before this
+828610	mouse came out because as we've seen
+830440	there were some problems with wireless
+832570	mice now click latency would be a huge
+835090	one if it was worse than say a wired
+837100	mouse so what we're going to do here is
+838510	actually measure that so I'll explain
+839980	how we'll do that now they have a wire
+842440	going into here but you can see that
+844030	it's not the actual normal one this is
+845680	wired directly into the switch instead
+847960	of actually the mouse itself so that you
+851350	have your wireless adapter still running
+853300	that has been done on the G 900 arrival
+856540	300 and a Razer chroma so you can see
+859270	there's two wires going into each one of
+860980	these because these are more naturally
+862510	wired mice I'm going to move these guys
+864250	out of the way this wire from the switch
+869140	is going into a signal adapter this then
+872620	sends it to a latency measurer so what
+875740	this one is recording off the bat is
+878080	exactly when the switch is pressed and
+882700	then it starts a timer from that point
+884830	in time to when this adapter is able to
+887950	send the signal to the USB analyzer so
+891010	that's when it actually receives the
+893230	signal that the switch was pressed
+895030	because that one isn't wired in that's a
+897160	wireless signal so you get to see the
+898780	total latency of the mouse within your
+901420	system similar to how we were testing
+903520	total latency of the mouse in previous
+905890	sections this isn't the total latency
+907270	until something would appear on your
+909640	screen because there's other things
+910930	within that equation like your graphics
+912370	card on your monitor and whatnot but
+913870	this is what Logitech can control so in
+916570	order to actually run the test they set
+918670	up this kind of game thing where you go
+920290	click on the lit up circle this is just
+923110	causing you to click a number of times
+925210	at different intervals so that can be
+926980	recorded over here much like the motion
+929260	testing motion latency testing that we
+931060	did earlier it'll show up a graph which
+932860	will have some slightly rounded numbers
+934540	but will give a good visual
+935710	representation of the results so we're
+937420	going to run this about 30 clicks and
+939790	then get a result after that so as you
+943750	can see graphically our average is about
+945910	4.5 it kind of all Huddle's in a nice
+949030	bell curve right around that area and
+950890	our
+952380	called not really rounded as much
+954030	average is at about four point three so
+957120	prizing lee similar to the latency in
+959190	our motion input latency tests so yeah
+962100	let's move on and try the other mice the
+964410	first contender is the SteelSeries rival
+966000	300 which has its firmware updated to
+968910	the most recent one since last Friday so
+970440	it's a wired mouse so theoretically up
+972930	until now it should be faster so we'll
+975120	see if it rains and holds that title
+976850	let's begin the results and then
+978870	compared against the G 900 okay so
+982380	looking up here we can see the blue data
+984780	is from the logitech g930 naita is from
+988650	the SteelSeries rival 300 you can see
+991950	again the mean or general average from
+995070	the Logitech G 909 300 it's kind of less
+1002270	of a more perfect bell curve the mean
+1004520	looks somewhere around 7.5 though moving
+1006710	over to the actual math of things it
+1008930	looks like the average is d about 7.6
+1011210	which is a pretty significant increase
+1013580	which is not good you want a lower
+1015800	number again it's more like golf so it's
+1018680	not over yet let's try one more so the
+1020780	program can only store two sets of data
+1022550	at a time so for round three I'm
+1024500	actually going to have to redo the G 900
+1026959	so here we go G 900 test two and then
+1030560	the G 900 test two will be compared
+1033050	against the Razer chroma okay so that's
+1038569	not really very good for the other team
+1041150	looking at the graphical average now
+1043010	it's probably at like a little bit below
+1045709	11 and yeah that's about right ten point
+1049970	nine milliseconds compared to four point
+1052190	two nine
+1053260	sounds like Wireless wins okay that was
+1056840	actually kind of Awesome I'm pretty
+1059960	convinced let me know what you guys
+1060950	think in the comments down below or on
+1062330	twitter at luke underscore la Fr thank
+1064910	you to Logitech for sending us here if
+1066890	you guys want to see more stuff click up
+1069500	here we've got videos that we show
+1071360	usually this goes at the end of the
+1073430	intro this I'm switching the game up
+1075170	it's going to the beginning this time
+1076310	like the video if you liked it dislike
+1077810	the video if you just like to be sure to
+1079190	stay subscribed so you can see all of
+1081050	our - tech tips content if you want to
+1083180	use our Amazon affiliate code that's
+1084500	cool you can buy
+1085350	stuff we get a fun kickback it's all
+1086940	nice you're going to check out the forum
+1088140	we canwe contributor there that's super
+1089910	helpful if you want a shirt check the
+1091380	description down below see you guys next
+1092880	time

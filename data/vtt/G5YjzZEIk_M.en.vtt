@@ -1,0 +1,373 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.199 --> 00:00:05.009 align:start position:19%
+<c.colorE5E5E5>okay<00:00:01.199><c> so</c><00:00:01.260><c> today</c><00:00:01.589><c> we're</c><00:00:01.709><c> gonna</c><00:00:01.770><c> be</c><00:00:01.979><c> unboxing</c><00:00:02.490><c> a</c></c>
+
+00:00:02.610 --> 00:00:08.189 align:start position:19%
+product<00:00:03.060><c> that</c><c.colorCCCCCC><00:00:03.480><c> isn't</c></c><c.colorE5E5E5><00:00:03.959><c> really</c><00:00:04.290><c> all</c></c><c.colorCCCCCC><00:00:04.319><c> that</c><00:00:04.620><c> new</c></c>
+
+00:00:05.009 --> 00:00:10.170 align:start position:19%
+<c.colorE5E5E5>but<00:00:05.730><c> it</c><00:00:06.000><c> has</c><00:00:06.180><c> something</c><00:00:06.540><c> new</c></c><c.colorCCCCCC><00:00:07.170><c> about</c><00:00:07.710><c> it</c><00:00:07.890><c> so</c><00:00:08.099><c> you</c></c>
+
+00:00:08.189 --> 00:00:13.410 align:start position:19%
+see<00:00:08.400><c> this</c><00:00:08.550><c> little</c><c.colorE5E5E5><00:00:08.610><c> sticker</c><00:00:09.210><c> that</c></c><c.colorCCCCCC><00:00:09.570><c> they've</c><00:00:09.960><c> put</c></c>
+
+00:00:10.170 --> 00:00:15.299 align:start position:19%
+on<c.colorE5E5E5><00:00:10.200><c> the</c><00:00:10.410><c> box</c><00:00:10.620><c> here</c><00:00:10.920><c> new</c><00:00:11.340><c> bind</c><00:00:12.240><c> all</c><00:00:12.630><c> 15</c><00:00:13.139><c> buttons</c></c>
+
+00:00:13.410 --> 00:00:18.390 align:start position:19%
+<c.colorCCCCCC>without<00:00:13.980><c> leaving</c><00:00:14.250><c> the</c><00:00:14.460><c> game</c><00:00:14.670><c> available</c></c><c.colorE5E5E5><00:00:15.179><c> off</c></c>
+
+00:00:15.299 --> 00:00:20.730 align:start position:19%
+patch<00:00:15.830><c> 3.2.2</c><00:00:16.830><c> or</c><00:00:17.160><c> later</c><c.colorCCCCCC><00:00:17.460><c> so</c><00:00:18.029><c> when</c><00:00:18.240><c> this</c></c>
+
+00:00:18.390 --> 00:00:23.039 align:start position:19%
+<c.colorE5E5E5>product<00:00:18.869><c> was</c><00:00:19.020><c> first</c><00:00:19.289><c> released</c><00:00:19.619><c> it</c><00:00:20.100><c> wasn't</c></c>
+
+00:00:20.730 --> 00:00:25.769 align:start position:19%
+<c.colorCCCCCC>actually<00:00:21.300><c> fully</c><00:00:21.869><c> compatible</c><00:00:22.320><c> with</c><00:00:22.560><c> the</c><00:00:22.710><c> game</c></c>
+
+00:00:23.039 --> 00:00:28.260 align:start position:19%
+<c.colorCCCCCC>now<00:00:23.820><c> it</c><00:00:24.210><c> is</c><00:00:24.390><c> completely</c></c><c.colorE5E5E5><00:00:24.930><c> integrated</c><00:00:25.529><c> to</c><00:00:25.740><c> the</c></c>
+
+00:00:25.769 --> 00:00:29.580 align:start position:19%
+<c.colorE5E5E5>game<00:00:26.039><c> so</c><00:00:26.789><c> that</c></c><c.colorCCCCCC><00:00:26.820><c> you</c><00:00:27.060><c> can</c><00:00:27.240><c> take</c><00:00:27.449><c> any</c><00:00:27.660><c> action</c></c>
+
+00:00:28.260 --> 00:00:31.890 align:start position:19%
+that<c.colorE5E5E5><00:00:28.289><c> you</c></c><c.colorCCCCCC><00:00:28.470><c> can</c><00:00:28.650><c> perform</c><00:00:29.010><c> in</c><00:00:29.099><c> the</c><00:00:29.189><c> game</c><00:00:29.340><c> and</c><00:00:29.519><c> you</c></c>
+
+00:00:29.580 --> 00:00:34.469 align:start position:19%
+<c.colorE5E5E5>can<00:00:29.730><c> bind</c><00:00:29.910><c> it</c><00:00:30.029><c> directly</c><00:00:30.390><c> to</c><00:00:30.689><c> a</c><00:00:30.720><c> button</c><00:00:31.410><c> before</c></c>
+
+00:00:31.890 --> 00:00:36.329 align:start position:19%
+<c.colorCCCCCC>it<00:00:32.369><c> used</c></c><c.colorE5E5E5><00:00:32.550><c> to</c><00:00:32.730><c> be</c><00:00:32.880><c> that</c><00:00:33.090><c> SteelSeries</c><00:00:34.020><c> had</c><00:00:34.320><c> it</c></c>
+
+00:00:34.469 --> 00:00:38.969 align:start position:19%
+set<00:00:34.649><c> up</c><c.colorCCCCCC><00:00:34.680><c> so</c><00:00:35.190><c> that</c></c><c.colorE5E5E5><00:00:35.250><c> when</c><00:00:35.460><c> you</c><00:00:35.579><c> press</c></c><c.colorCCCCCC><00:00:35.760><c> the</c><00:00:36.030><c> button</c></c>
+
+00:00:36.329 --> 00:00:40.559 align:start position:19%
+<c.colorE5E5E5>it<00:00:36.630><c> would</c><00:00:36.870><c> execute</c><00:00:37.380><c> a</c><00:00:37.469><c> small</c><00:00:37.710><c> macro</c><00:00:38.340><c> so</c><00:00:38.790><c> that</c></c>
+
+00:00:38.969 --> 00:00:43.110 align:start position:19%
+meant<00:00:39.239><c> that</c><c.colorE5E5E5><00:00:39.329><c> it</c><00:00:39.510><c> would</c><00:00:39.629><c> actually</c><00:00:39.750><c> like</c><00:00:40.350><c> kind</c></c>
+
+00:00:40.559 --> 00:00:45.149 align:start position:19%
+<c.colorE5E5E5>of<00:00:40.680><c> type</c><00:00:41.010><c> a</c><00:00:41.160><c> command</c><00:00:41.340><c> in</c><00:00:41.790><c> whereas</c><00:00:42.329><c> now</c><00:00:42.660><c> it's</c></c>
+
+00:00:43.110 --> 00:00:47.160 align:start position:19%
+integrated<00:00:43.860><c> directly</c><00:00:44.040><c> into</c><c.colorE5E5E5><00:00:44.460><c> the</c><00:00:44.850><c> world</c><00:00:45.030><c> of</c></c>
+
+00:00:45.149 --> 00:00:50.460 align:start position:19%
+<c.colorE5E5E5>warcraft<00:00:45.360><c> game</c><00:00:45.930><c> engine</c><00:00:46.350><c> so</c><00:00:46.710><c> that</c><00:00:46.739><c> it's</c></c>
+
+00:00:47.160 --> 00:00:53.219 align:start position:19%
+seamless<c.colorCCCCCC><00:00:47.820><c> okay</c><00:00:48.719><c> so</c><00:00:48.780><c> here</c><00:00:49.350><c> we</c><00:00:49.379><c> can</c><00:00:49.710><c> see</c><00:00:49.950><c> the</c></c>
+
+00:00:50.460 --> 00:00:55.199 align:start position:19%
+mouse<00:00:50.670><c> itself</c><c.colorE5E5E5><00:00:51.180><c> laid</c><00:00:51.660><c> in</c><00:00:51.930><c> with</c><00:00:52.230><c> some</c><00:00:52.500><c> gold</c><00:00:52.860><c> and</c></c>
+
+00:00:53.219 --> 00:00:56.910 align:start position:19%
+<c.colorCCCCCC>not<00:00:53.460><c> oh</c><00:00:53.489><c> no</c></c><c.colorE5E5E5><00:00:53.579><c> dragon</c></c><c.colorCCCCCC><00:00:54.120><c> jewels</c><00:00:54.329><c> or</c><00:00:54.629><c> whatever</c></c><c.colorE5E5E5><00:00:54.960><c> and</c></c>
+
+00:00:55.199 --> 00:00:59.940 align:start position:19%
+then<00:00:55.620><c> up</c><c.colorCCCCCC><00:00:55.739><c> here</c><00:00:55.980><c> they</c><00:00:56.129><c> show</c><00:00:56.280><c> a</c><00:00:56.309><c> quick</c></c><c.colorE5E5E5><00:00:56.550><c> preview</c></c>
+
+00:00:56.910 --> 00:01:01.829 align:start position:19%
+of<c.colorE5E5E5><00:00:57.180><c> the</c></c><c.colorCCCCCC><00:00:57.360><c> interface</c></c><c.colorE5E5E5><00:00:58.350><c> for</c><00:00:58.890><c> configuring</c><00:00:59.430><c> the</c></c>
+
+00:00:59.940 --> 00:01:04.229 align:start position:19%
+mouse<00:01:00.300><c> itself</c><00:01:00.719><c> now</c><00:01:00.989><c> that</c><00:01:01.140><c> would</c><c.colorCCCCCC><00:01:01.289><c> obviously</c><00:01:01.590><c> be</c></c>
+
+00:01:01.829 --> 00:01:06.510 align:start position:19%
+the<00:01:01.949><c> old</c><00:01:02.250><c> interface</c><c.colorE5E5E5><00:01:02.699><c> now</c><00:01:03.539><c> that</c><00:01:03.750><c> the</c><00:01:03.840><c> mouse</c><00:01:04.019><c> can</c></c>
+
+00:01:04.229 --> 00:01:08.369 align:start position:19%
+<c.colorCCCCCC>be<00:01:04.379><c> configured</c></c><c.colorE5E5E5><00:01:04.710><c> within</c><00:01:05.309><c> the</c><00:01:05.670><c> game</c><00:01:05.939><c> okay</c><00:01:06.450><c> so</c></c>
+
+00:01:06.510 --> 00:01:10.650 align:start position:19%
+<c.colorE5E5E5>let's<00:01:06.840><c> get</c><00:01:07.020><c> this</c><00:01:07.170><c> box</c><00:01:07.439><c> open</c><00:01:07.619><c> if</c><00:01:07.890><c> I</c><00:01:07.979><c> can</c><00:01:08.189><c> figure</c></c>
+
+00:01:08.369 --> 00:01:14.159 align:start position:19%
+out<00:01:08.490><c> how</c><00:01:09.240><c> to</c><00:01:09.270><c> do</c><00:01:09.570><c> it</c><00:01:09.689><c> I</c><c.colorCCCCCC><00:01:09.780><c> think</c><00:01:09.990><c> it</c><00:01:10.110><c> opens</c><00:01:10.409><c> down</c></c>
+
+00:01:10.650 --> 00:01:16.500 align:start position:19%
+here<00:01:10.979><c> yep</c><c.colorE5E5E5><00:01:11.250><c> there</c><00:01:11.549><c> we</c><00:01:11.640><c> go</c><00:01:11.760><c> okay</c><00:01:12.659><c> so</c><00:01:12.720><c> we</c><00:01:13.200><c> undo</c><00:01:13.830><c> the</c></c>
+
+00:01:14.159 --> 00:01:19.170 align:start position:19%
+the<00:01:14.640><c> gold</c><00:01:14.909><c> and</c><00:01:15.330><c> then</c><00:01:15.780><c> we</c><c.colorE5E5E5><00:01:15.810><c> have</c><00:01:16.080><c> a</c><00:01:16.110><c> small</c></c>
+
+00:01:16.500 --> 00:01:22.200 align:start position:19%
+plastic<c.colorE5E5E5><00:01:16.890><c> sheath</c><00:01:17.430><c> over</c></c><c.colorCCCCCC><00:01:17.700><c> the</c><00:01:18.270><c> mouse</c><00:01:18.450><c> itself</c><00:01:18.869><c> now</c></c>
+
+00:01:19.170 --> 00:01:24.720 align:start position:19%
+I<00:01:19.200><c> do</c><00:01:19.500><c> want</c><00:01:19.860><c> to</c><00:01:19.950><c> I</c><00:01:20.430><c> can</c><00:01:21.210><c> get</c><00:01:21.570><c> the</c><00:01:21.689><c> most</c><c.colorE5E5E5><00:01:21.869><c> to</c><00:01:22.020><c> come</c></c>
+
+00:01:22.200 --> 00:01:25.920 align:start position:19%
+out<00:01:22.320><c> of</c><c.colorCCCCCC><00:01:22.350><c> there</c></c><c.colorE5E5E5><00:01:22.590><c> yeah</c><00:01:22.939><c> there</c><00:01:23.939><c> we</c><00:01:24.030><c> go</c><00:01:24.150><c> okay</c><00:01:24.689><c> I</c></c>
+
+00:01:24.720 --> 00:01:28.140 align:start position:19%
+want<c.colorE5E5E5><00:01:24.960><c> to</c><00:01:25.020><c> have</c><00:01:25.110><c> a</c><00:01:25.170><c> look</c><00:01:25.350><c> at</c><00:01:25.530><c> the</c><00:01:25.650><c> accessories</c></c>
+
+00:01:25.920 --> 00:01:31.890 align:start position:19%
+<c.colorCCCCCC>that<00:01:26.220><c> are</c><00:01:26.430><c> included</c></c><c.colorE5E5E5><00:01:26.820><c> first</c><00:01:27.240><c> though</c><00:01:27.420><c> as</c><00:01:27.600><c> per</c><00:01:27.900><c> my</c></c>
+
+00:01:28.140 --> 00:01:33.450 align:start position:19%
+<c.colorCCCCCC>usual<00:01:28.890><c> thing</c><00:01:29.329><c> so</c><00:01:30.329><c> not</c><00:01:30.810><c> a</c></c><c.colorE5E5E5><00:01:30.840><c> whole</c><00:01:31.170><c> lot</c><00:01:31.439><c> as</c></c><c.colorCCCCCC><00:01:31.680><c> you</c></c>
+
+00:01:31.890 --> 00:01:35.040 align:start position:19%
+<c.colorE5E5E5>can<00:01:32.070><c> see</c><00:01:32.250><c> in</c><00:01:32.369><c> terms</c><00:01:32.520><c> of</c><00:01:32.700><c> accessories</c><00:01:33.240><c> it's</c></c>
+
+00:01:33.450 --> 00:01:37.500 align:start position:19%
+pretty<00:01:33.689><c> bare</c><00:01:33.900><c> down</c><00:01:34.140><c> there</c><00:01:34.409><c> but</c><00:01:34.590><c> what</c><00:01:34.740><c> we</c><c.colorE5E5E5><00:01:34.770><c> do</c></c>
+
+00:01:35.040 --> 00:01:40.020 align:start position:19%
+<c.colorE5E5E5>have<00:01:35.280><c> is</c><00:01:35.729><c> a</c></c><c.colorCCCCCC><00:01:35.790><c> World</c></c><c.colorE5E5E5><00:01:36.150><c> of</c></c><c.colorCCCCCC><00:01:36.329><c> Warcraft</c><00:01:36.780><c> MMO</c><00:01:37.259><c> gaming</c></c>
+
+00:01:37.500 --> 00:01:41.759 align:start position:19%
+mouse<00:01:37.770><c> Quick</c><00:01:38.220><c> Start</c><00:01:38.640><c> Guide</c><c.colorCCCCCC><00:01:39.090><c> so</c><00:01:39.630><c> basically</c></c>
+
+00:01:40.020 --> 00:01:43.979 align:start position:19%
+they<00:01:40.259><c> tell</c><00:01:40.409><c> you</c><00:01:40.500><c> to</c><c.colorE5E5E5><00:01:40.590><c> go</c><00:01:40.710><c> to</c></c><c.colorCCCCCC><00:01:40.740><c> SteelSeries</c><00:01:41.369><c> comm</c></c>
+
+00:01:41.759 --> 00:01:45.780 align:start position:19%
+/downloads<00:01:42.299><c> get</c><00:01:42.750><c> the</c><00:01:42.840><c> latest</c><c.colorE5E5E5><00:01:42.990><c> drivers</c><00:01:43.500><c> that's</c></c>
+
+00:01:43.979 --> 00:01:48.149 align:start position:19%
+what<00:01:44.130><c> i</c><00:01:44.159><c> always</c><c.colorCCCCCC><00:01:44.220><c> recommend</c></c><c.colorE5E5E5><00:01:44.579><c> anyway</c><00:01:45.540><c> I</c><00:01:45.570><c> don't</c></c>
+
+00:01:45.780 --> 00:01:49.590 align:start position:19%
+<c.colorE5E5E5>even<00:01:46.110><c> like</c><00:01:46.409><c> seeing</c><00:01:46.770><c> a</c><00:01:46.890><c> driver</c><00:01:47.130><c> disk</c></c><c.colorCCCCCC><00:01:47.460><c> in</c><00:01:47.759><c> the</c></c>
+
+00:01:48.149 --> 00:01:51.270 align:start position:19%
+box<00:01:48.360><c> because</c><c.colorCCCCCC><00:01:48.600><c> you</c></c><c.colorE5E5E5><00:01:48.750><c> shouldn't</c></c><c.colorCCCCCC><00:01:49.079><c> be</c><00:01:49.170><c> using</c><00:01:49.320><c> it</c></c>
+
+00:01:49.590 --> 00:01:52.680 align:start position:19%
+<c.colorE5E5E5>they<00:01:50.040><c> tell</c><00:01:50.220><c> you</c><00:01:50.310><c> how</c><00:01:50.399><c> to</c><00:01:50.460><c> configure</c><00:01:50.820><c> the</c><00:01:51.090><c> mouse</c></c>
+
+00:01:51.270 --> 00:01:54.810 align:start position:19%
+they<00:01:51.600><c> show</c><00:01:51.750><c> you</c><c.colorE5E5E5><00:01:51.810><c> all</c><00:01:52.079><c> the</c><00:01:52.320><c> default</c></c>
+
+00:01:52.680 --> 00:01:57.119 align:start position:19%
+assignments<00:01:53.340><c> for</c><00:01:53.490><c> the</c><00:01:53.579><c> buttons</c><c.colorE5E5E5><00:01:53.909><c> auto</c><00:01:54.420><c> run</c></c>
+
+00:01:54.810 --> 00:02:00.000 align:start position:19%
+last<00:01:55.140><c> hostile</c><00:01:55.649><c> stop</c><00:01:56.009><c> all</c><c.colorE5E5E5><00:01:56.189><c> nearest</c><00:01:56.610><c> enemy</c><00:01:56.939><c> all</c></c>
+
+00:01:57.119 --> 00:02:01.770 align:start position:19%
+that<00:01:57.299><c> kind</c><c.colorE5E5E5><00:01:57.570><c> of</c></c><c.colorCCCCCC><00:01:57.750><c> Wow</c></c><c.colorE5E5E5><00:01:58.790><c> terminology</c><00:01:59.790><c> that</c><00:01:59.820><c> I</c></c>
+
+00:02:00.000 --> 00:02:03.200 align:start position:19%
+would<00:02:00.210><c> know</c><00:02:00.360><c> if</c><00:02:00.719><c> I</c><00:02:00.869><c> played</c><00:02:01.110><c> that</c><c.colorCCCCCC><00:02:01.259><c> game</c><00:02:01.439><c> which</c><00:02:01.649><c> I</c></c>
+
+00:02:01.770 --> 00:02:06.360 align:start position:19%
+don't
+
+00:02:03.200 --> 00:02:08.460 align:start position:19%
+<c.colorCCCCCC>all</c><c.colorE5E5E5><00:02:04.200><c> right</c><00:02:04.410><c> so</c><00:02:04.800><c> here</c><00:02:05.340><c> we</c><00:02:05.520><c> have</c><00:02:05.730><c> a</c><00:02:06.090><c> nice</c></c>
+
+00:02:06.360 --> 00:02:10.560 align:start position:19%
+beautiful<c.colorE5E5E5><00:02:06.660><c> braided</c><00:02:07.470><c> cord</c><00:02:07.710><c> that's</c><00:02:08.100><c> really</c></c>
+
+00:02:08.460 --> 00:02:12.450 align:start position:19%
+<c.colorE5E5E5>nice<00:02:08.640><c> so</c><00:02:08.910><c> it</c><00:02:08.970><c> won't</c><00:02:09.180><c> won't</c><00:02:10.050><c> get</c><00:02:10.320><c> caught</c><00:02:10.530><c> on</c></c>
+
+00:02:10.560 --> 00:02:14.010 align:start position:19%
+stuff<c.colorCCCCCC><00:02:10.979><c> you</c><00:02:11.130><c> can</c><00:02:11.280><c> see</c><00:02:11.430><c> it's</c><00:02:11.550><c> quite</c></c><c.colorE5E5E5><00:02:11.670><c> shiny</c></c><c.colorCCCCCC><00:02:12.060><c> then</c></c>
+
+00:02:12.450 --> 00:02:16.290 align:start position:19%
+it's<00:02:12.600><c> a</c><c.colorE5E5E5><00:02:12.720><c> little</c><00:02:12.930><c> bit</c><00:02:13.050><c> slippery</c><00:02:13.350><c> so</c></c><c.colorCCCCCC><00:02:13.530><c> that</c></c><c.colorE5E5E5><00:02:13.740><c> if</c></c>
+
+00:02:14.010 --> 00:02:18.090 align:start position:19%
+you<00:02:14.160><c> are</c><c.colorE5E5E5><00:02:14.190><c> tugging</c><00:02:15.180><c> on</c><00:02:15.300><c> it</c><00:02:15.330><c> it</c><00:02:15.600><c> will</c><00:02:15.750><c> slip</c><00:02:15.990><c> past</c></c>
+
+00:02:16.290 --> 00:02:19.530 align:start position:19%
+whatever<00:02:16.620><c> obstacles</c><00:02:17.370><c> are</c><c.colorE5E5E5><00:02:17.460><c> in</c></c><c.colorCCCCCC><00:02:17.520><c> your</c><00:02:17.730><c> way</c></c>
+
+00:02:18.090 --> 00:02:22.260 align:start position:19%
+so<00:02:18.450><c> let's</c><00:02:18.690><c> have</c><00:02:18.810><c> a</c><00:02:18.870><c> quick</c><c.colorCCCCCC><00:02:19.050><c> look</c></c><c.colorE5E5E5><00:02:19.290><c> at</c><00:02:19.440><c> the</c></c>
+
+00:02:19.530 --> 00:02:24.810 align:start position:19%
+ergonomics<00:02:20.280><c> of</c><00:02:20.460><c> the</c><c.colorCCCCCC><00:02:21.060><c> WoW</c></c><c.colorE5E5E5><00:02:21.240><c> Mouse</c><00:02:21.510><c> itself</c><00:02:22.050><c> so</c></c>
+
+00:02:22.260 --> 00:02:26.910 align:start position:19%
+you<c.colorE5E5E5><00:02:22.320><c> can</c><00:02:22.560><c> see</c><00:02:22.770><c> that</c><00:02:23.010><c> it</c><00:02:23.550><c> is</c></c><c.colorCCCCCC><00:02:23.610><c> a</c><00:02:24.150><c> symmetrical</c></c>
+
+00:02:24.810 --> 00:02:29.430 align:start position:19%
+<c.colorE5E5E5>Mouse<00:02:25.050><c> so</c><00:02:25.650><c> you</c><00:02:25.710><c> can</c><00:02:26.010><c> use</c><00:02:26.220><c> it</c></c><c.colorCCCCCC><00:02:26.250><c> as</c><00:02:26.550><c> either</c><00:02:26.730><c> a</c></c>
+
+00:02:26.910 --> 00:02:31.620 align:start position:19%
+lefty<00:02:27.360><c> or</c><c.colorCCCCCC><00:02:27.390><c> a</c><00:02:27.600><c> righty</c></c><c.colorE5E5E5><00:02:27.810><c> but</c><00:02:28.650><c> on</c><00:02:28.770><c> the</c><00:02:28.950><c> one</c><00:02:29.130><c> side</c></c>
+
+00:02:29.430 --> 00:02:33.750 align:start position:19%
+<c.colorE5E5E5>you've</c><c.colorCCCCCC><00:02:29.970><c> got</c><00:02:30.210><c> a</c></c><c.colorE5E5E5><00:02:30.240><c> layout</c><00:02:30.630><c> that</c></c><c.colorCCCCCC><00:02:30.660><c> is</c></c><c.colorE5E5E5><00:02:30.990><c> obviously</c><00:02:31.590><c> a</c></c>
+
+00:02:31.620 --> 00:02:35.250 align:start position:19%
+little<c.colorE5E5E5><00:02:31.920><c> bit</c><00:02:32.040><c> better</c><00:02:32.430><c> suited</c><00:02:32.850><c> for</c><00:02:32.910><c> a</c><00:02:33.210><c> thumb</c></c>
+
+00:02:33.750 --> 00:02:36.780 align:start position:19%
+<c.colorE5E5E5>okay<00:02:34.200><c> so</c><00:02:34.260><c> you</c><00:02:34.440><c> got</c><00:02:34.590><c> your</c><00:02:34.620><c> four</c><00:02:34.890><c> buttons</c><00:02:35.160><c> here</c></c>
+
+00:02:35.250 --> 00:02:38.370 align:start position:19%
+<c.colorCCCCCC>and<00:02:35.430><c> then</c><00:02:35.610><c> this</c></c><c.colorE5E5E5><00:02:35.670><c> would</c><00:02:35.880><c> be</c><00:02:35.970><c> forward</c><00:02:36.330><c> back</c><00:02:36.510><c> for</c></c>
+
+00:02:36.780 --> 00:02:40.200 align:start position:19%
+your<00:02:36.870><c> browser</c><c.colorE5E5E5><00:02:37.110><c> or</c><00:02:37.470><c> you</c><00:02:37.560><c> can</c><00:02:37.770><c> configure</c><00:02:38.070><c> it</c></c><c.colorCCCCCC><00:02:38.280><c> to</c></c>
+
+00:02:38.370 --> 00:02:42.540 align:start position:19%
+whatever<00:02:38.490><c> you</c><c.colorE5E5E5><00:02:38.700><c> want</c></c><c.colorCCCCCC><00:02:38.850><c> in-game</c></c><c.colorE5E5E5><00:02:39.330><c> and</c><00:02:39.600><c> then</c><00:02:40.080><c> on</c></c>
+
+00:02:40.200 --> 00:02:43.500 align:start position:19%
+the<c.colorCCCCCC><00:02:40.290><c> other</c></c><c.colorE5E5E5><00:02:40.440><c> side</c><00:02:40.770><c> for</c><00:02:41.310><c> your</c><00:02:41.430><c> pinky</c><00:02:41.910><c> is</c><00:02:42.060><c> only</c></c>
+
+00:02:42.540 --> 00:02:45.780 align:start position:19%
+two<00:02:42.900><c> buttons</c>
+
+00:02:43.500 --> 00:02:48.720 align:start position:19%
+okay<00:02:43.980><c> so</c><00:02:44.610><c> then</c><00:02:44.760><c> on</c><00:02:44.880><c> the</c><00:02:45.000><c> top</c><c.colorE5E5E5><00:02:45.180><c> of</c><00:02:45.360><c> the</c><00:02:45.420><c> mouse</c></c><c.colorCCCCCC><00:02:45.600><c> you</c></c>
+
+00:02:45.780 --> 00:02:51.150 align:start position:19%
+<c.colorCCCCCC>have<00:02:45.930><c> another</c><00:02:46.140><c> one</c><00:02:46.440><c> two</c><00:02:46.680><c> three</c><00:02:47.100><c> four</c><00:02:47.520><c> five</c><00:02:48.180><c> six</c></c>
+
+00:02:48.720 --> 00:02:52.890 align:start position:19%
+seven<c.colorCCCCCC><00:02:49.320><c> and</c><00:02:49.709><c> one</c></c><c.colorE5E5E5><00:02:50.400><c> thing</c><00:02:50.730><c> that's</c><00:02:50.850><c> cool</c><00:02:51.090><c> about</c></c>
+
+00:02:51.150 --> 00:02:55.350 align:start position:19%
+the<c.colorE5E5E5><00:02:51.540><c> well</c><00:02:51.690><c> Mouse</c><00:02:51.930><c> is</c><00:02:52.170><c> there's</c></c><c.colorCCCCCC><00:02:52.440><c> actually</c></c>
+
+00:02:52.890 --> 00:02:58.380 align:start position:19%
+lighting<00:02:53.310><c> in</c><00:02:53.730><c> between</c><00:02:54.300><c> these</c><c.colorE5E5E5><00:02:54.510><c> little</c><00:02:54.810><c> sort</c><00:02:55.230><c> of</c></c>
+
+00:02:55.350 --> 00:03:00.570 align:start position:19%
+overlapping<c.colorCCCCCC><00:02:55.910><c> Armour</c><00:02:56.910><c> bits</c><00:02:57.420><c> here</c><00:02:57.810><c> that</c><00:02:58.230><c> you</c></c>
+
+00:02:58.380 --> 00:03:02.820 align:start position:19%
+can<00:02:58.590><c> configure</c><00:02:58.920><c> to</c><c.colorE5E5E5><00:02:59.070><c> whatever</c><00:02:59.610><c> color</c><00:03:00.120><c> you</c><00:03:00.360><c> want</c></c>
+
+00:03:00.570 --> 00:03:05.459 align:start position:19%
+<c.colorCCCCCC>now<00:03:01.080><c> this</c><00:03:01.380><c> would</c><00:03:01.560><c> it</c><00:03:01.680><c> be</c><00:03:01.800><c> a</c><00:03:01.830><c> complete</c><00:03:02.490><c> Wow</c></c>
+
+00:03:02.820 --> 00:03:09.360 align:start position:19%
+<c.colorE5E5E5>Mouse<00:03:03.060><c> unboxing</c><00:03:03.900><c> without</c><00:03:04.620><c> a</c><00:03:04.860><c> quick</c><00:03:05.130><c> look</c><00:03:05.310><c> at</c></c>
+
+00:03:05.459 --> 00:03:10.980 align:start position:19%
+<c.colorE5E5E5>it<00:03:05.610><c> versus</c></c><c.colorCCCCCC><00:03:06.090><c> the</c><00:03:06.330><c> Razer</c></c><c.colorE5E5E5><00:03:06.750><c> Naga</c><00:03:07.590><c> MMO</c><00:03:08.340><c> Mouse</c><00:03:08.970><c> but</c></c>
+
+00:03:09.360 --> 00:03:13.190 align:start position:19%
+actually<00:03:09.810><c> one</c><00:03:09.959><c> more</c><c.colorCCCCCC><00:03:09.989><c> thing</c><00:03:10.140><c> before</c><00:03:10.470><c> we</c><00:03:10.680><c> stop</c></c>
+
+00:03:10.980 --> 00:03:15.780 align:start position:19%
+is<00:03:11.190><c> I</c><00:03:11.280><c> wanted</c><c.colorE5E5E5><00:03:11.519><c> to</c><00:03:11.580><c> have</c><00:03:11.730><c> a</c><00:03:11.760><c> look</c><00:03:11.910><c> at</c><00:03:12.060><c> the</c><00:03:12.180><c> huge</c></c>
+
+00:03:13.190 --> 00:03:17.489 align:start position:19%
+<c.colorCCCCCC>slippy<00:03:14.190><c> pads</c><00:03:14.459><c> on</c><00:03:14.820><c> the</c><00:03:15.000><c> bottom</c><00:03:15.120><c> of</c></c><c.colorE5E5E5><00:03:15.360><c> this</c></c><c.colorCCCCCC><00:03:15.480><c> Mouse</c></c>
+
+00:03:15.780 --> 00:03:20.400 align:start position:19%
+<c.colorCCCCCC>the<00:03:16.050><c> slippy</c><00:03:16.410><c> pads</c><00:03:16.650><c> what</c><00:03:16.860><c> am</c><00:03:16.950><c> i</c><00:03:17.010><c> calling</c><00:03:17.220><c> them</c></c>
+
+00:03:17.489 --> 00:03:22.019 align:start position:19%
+these<00:03:17.940><c> are</c><00:03:18.000><c> Teflon</c><00:03:18.660><c> pads</c><c.colorCCCCCC><00:03:18.989><c> and</c><00:03:19.350><c> that's</c><00:03:20.070><c> going</c></c>
+
+00:03:20.400 --> 00:03:24.420 align:start position:19%
+<c.colorE5E5E5>to<00:03:20.459><c> enable</c><00:03:20.700><c> you</c><00:03:21.060><c> to</c><00:03:21.090><c> have</c><00:03:21.390><c> a</c><00:03:21.450><c> really</c><00:03:21.870><c> good</c></c>
+
+00:03:22.019 --> 00:03:26.040 align:start position:19%
+gliding<00:03:22.470><c> experience</c><00:03:23.070><c> no</c><00:03:23.250><c> matter</c><c.colorE5E5E5><00:03:23.280><c> what</c><00:03:24.239><c> kind</c></c>
+
+00:03:24.420 --> 00:03:28.440 align:start position:19%
+<c.colorCCCCCC>of<00:03:24.540><c> surface</c></c><c.colorE5E5E5><00:03:24.720><c> you're</c><00:03:25.019><c> using</c><00:03:25.230><c> it</c><00:03:25.440><c> on</c><00:03:25.560><c> so</c><00:03:25.739><c> here</c><00:03:25.920><c> it</c></c>
+
+00:03:26.040 --> 00:03:30.480 align:start position:19%
+is<00:03:26.130><c> against</c><00:03:26.519><c> the</c><00:03:26.640><c> Naga</c><c.colorE5E5E5><00:03:27.030><c> which</c></c><c.colorCCCCCC><00:03:27.660><c> is</c><00:03:27.930><c> kind</c><00:03:28.290><c> of</c><00:03:28.320><c> a</c></c>
+
+00:03:28.440 --> 00:03:32.700 align:start position:19%
+similar<00:03:28.920><c> sort</c><00:03:29.220><c> of</c><c.colorE5E5E5><00:03:29.310><c> idea</c><00:03:29.640><c> for</c><00:03:29.910><c> a</c><00:03:29.940><c> mouse</c><00:03:30.180><c> it</c></c><c.colorCCCCCC><00:03:30.390><c> is</c></c>
+
+00:03:30.480 --> 00:03:34.470 align:start position:19%
+an<00:03:30.600><c> MMO</c><00:03:30.959><c> gaming</c><00:03:31.260><c> mouse</c><00:03:31.590><c> but</c><00:03:32.220><c> they</c><00:03:32.340><c> do</c><00:03:32.400><c> take</c>
+
+00:03:32.700 --> 00:03:36.570 align:start position:19%
+<c.colorE5E5E5>slightly<00:03:33.030><c> different</c><00:03:33.390><c> approaches</c><00:03:33.870><c> where</c><00:03:34.320><c> the</c></c>
+
+00:03:34.470 --> 00:03:39.300 align:start position:19%
+<c.colorE5E5E5>WoW<00:03:34.620><c> Mouse</c><00:03:34.950><c> integrates</c><00:03:35.550><c> directly</c><00:03:35.760><c> into</c><00:03:36.420><c> the</c></c>
+
+00:03:36.570 --> 00:03:41.750 align:start position:19%
+game<00:03:36.780><c> in</c><00:03:36.989><c> terms</c><00:03:37.170><c> of</c><00:03:37.350><c> assignment</c><c.colorE5E5E5><00:03:37.920><c> the</c><00:03:38.340><c> Naga</c><00:03:38.640><c> can</c></c>
+
+00:03:39.300 --> 00:03:44.340 align:start position:19%
+only<00:03:39.540><c> be</c><c.colorE5E5E5><00:03:39.840><c> assigned</c><00:03:40.200><c> to</c><00:03:40.500><c> the</c><00:03:40.950><c> one</c></c><c.colorCCCCCC><00:03:41.100><c> two</c></c><c.colorE5E5E5><00:03:41.280><c> three</c></c>
+
+00:03:41.750 --> 00:03:46.590 align:start position:19%
+the<c.colorE5E5E5><00:03:42.750><c> number</c><00:03:43.110><c> keys</c><00:03:43.380><c> across</c><00:03:43.800><c> the</c><00:03:43.950><c> top</c></c><c.colorCCCCCC><00:03:44.130><c> of</c><00:03:44.280><c> the</c></c>
+
+00:03:44.340 --> 00:03:48.239 align:start position:19%
+<c.colorCCCCCC>keyboard</c><c.colorE5E5E5><00:03:44.790><c> or</c><00:03:45.000><c> the</c><00:03:45.060><c> number</c><00:03:45.780><c> pad</c><00:03:46.050><c> so</c><00:03:46.380><c> you</c><00:03:46.410><c> have</c></c>
+
+00:03:46.590 --> 00:03:50.190 align:start position:19%
+to<00:03:46.739><c> press</c><00:03:46.920><c> a</c><00:03:46.950><c> little</c><00:03:47.100><c> button</c><00:03:47.340><c> and</c><00:03:47.670><c> those</c><00:03:48.090><c> are</c>
+
+00:03:48.239 --> 00:03:52.290 align:start position:19%
+the<c.colorE5E5E5><00:03:48.330><c> only</c><00:03:48.480><c> keys</c></c><c.colorCCCCCC><00:03:48.989><c> that</c></c><c.colorE5E5E5><00:03:49.140><c> can</c><00:03:49.290><c> be</c><00:03:49.440><c> bound</c><00:03:49.650><c> to</c><00:03:49.950><c> at</c></c>
+
+00:03:50.190 --> 00:03:53.970 align:start position:19%
+this<c.colorE5E5E5><00:03:50.550><c> time</c><00:03:50.910><c> they</c><00:03:51.390><c> also</c><00:03:51.420><c> take</c><00:03:51.900><c> very</c><00:03:52.200><c> different</c></c>
+
+00:03:52.290 --> 00:03:55.680 align:start position:19%
+<c.colorCCCCCC>approaches<00:03:53.010><c> in</c><00:03:53.160><c> terms</c><00:03:53.400><c> of</c><00:03:53.550><c> the</c><00:03:53.670><c> button</c></c>
+
+00:03:53.970 --> 00:03:58.290 align:start position:19%
+layouts<c.colorE5E5E5><00:03:54.269><c> and</c><00:03:54.480><c> the</c><00:03:54.750><c> ergonomics</c><00:03:55.350><c> so</c><00:03:55.560><c> the</c></c>
+
+00:03:55.680 --> 00:03:59.910 align:start position:19%
+SteelSeries<00:03:56.160><c> mouse</c><c.colorCCCCCC><00:03:56.340><c> is</c><00:03:57.060><c> for</c><00:03:57.720><c> lefties</c><00:03:58.140><c> or</c></c>
+
+00:03:58.290 --> 00:04:01.920 align:start position:19%
+righties<00:03:58.350><c> whereas</c><00:03:59.040><c> the</c><c.colorCCCCCC><00:03:59.250><c> Naga</c><00:03:59.610><c> would</c><00:03:59.790><c> be</c></c>
+
+00:03:59.910 --> 00:04:03.840 align:start position:19%
+extremely<c.colorCCCCCC><00:04:00.390><c> uncomfortable</c><00:04:00.900><c> if</c><00:04:01.380><c> you</c><00:04:01.709><c> were</c><00:04:01.830><c> to</c></c>
+
+00:04:01.920 --> 00:04:05.880 align:start position:19%
+try<c.colorCCCCCC><00:04:02.100><c> to</c></c><c.colorE5E5E5><00:04:02.160><c> use</c></c><c.colorCCCCCC><00:04:02.400><c> it</c><00:04:02.519><c> with</c><00:04:02.640><c> a</c><00:04:02.700><c> left</c><00:04:02.940><c> head</c><00:04:03.239><c> now</c><00:04:03.780><c> the</c></c>
+
+00:04:03.840 --> 00:04:08.070 align:start position:19%
+buttons<00:04:04.260><c> are</c><00:04:04.470><c> kind</c><c.colorE5E5E5><00:04:04.709><c> of</c><00:04:04.830><c> accessible</c><00:04:05.519><c> from</c><00:04:05.730><c> all</c></c>
+
+00:04:05.880 --> 00:04:10.230 align:start position:19%
+your<00:04:06.120><c> different</c><00:04:06.450><c> fingers</c><00:04:06.840><c> on</c><00:04:07.080><c> the</c><00:04:07.470><c> MMO</c><00:04:07.860><c> Mouse</c>
+
+00:04:08.070 --> 00:04:12.600 align:start position:19%
+<c.colorE5E5E5>whereas<00:04:08.880><c> on</c><00:04:09.030><c> the</c><00:04:09.150><c> Naga</c><00:04:09.360><c> it's</c><00:04:09.780><c> pretty</c><00:04:10.049><c> much</c></c>
+
+00:04:10.230 --> 00:04:14.130 align:start position:19%
+<c.colorCCCCCC>only<00:04:10.770><c> your</c><00:04:10.920><c> thumb</c><00:04:11.220><c> which</c><00:04:11.700><c> uses</c><00:04:12.120><c> this</c><00:04:12.270><c> number</c></c>
+
+00:04:12.600 --> 00:04:15.900 align:start position:19%
+pad<00:04:12.810><c> on</c><00:04:12.959><c> the</c><00:04:13.080><c> side</c>
+
+00:04:14.130 --> 00:04:17.550 align:start position:19%
+and<00:04:14.220><c> your</c><c.colorE5E5E5><00:04:14.760><c> index</c><00:04:15.120><c> finger</c><00:04:15.480><c> that's</c><00:04:15.720><c> where</c></c>
+
+00:04:15.900 --> 00:04:19.380 align:start position:19%
+you're<00:04:16.020><c> going</c><c.colorE5E5E5><00:04:16.140><c> to</c><00:04:16.200><c> be</c><00:04:16.290><c> hitting</c><00:04:16.500><c> most</c><00:04:17.160><c> of</c><00:04:17.400><c> the</c></c>
+
+00:04:17.550 --> 00:04:21.060 align:start position:19%
+<c.colorE5E5E5>buttons<00:04:17.820><c> on</c></c><c.colorCCCCCC><00:04:17.970><c> the</c><00:04:18.090><c> mouse</c><00:04:18.270><c> from</c><00:04:18.510><c> so</c><00:04:18.780><c> thank</c><00:04:19.260><c> you</c></c>
+
+00:04:19.380 --> 00:04:21.840 align:start position:19%
+for<c.colorE5E5E5><00:04:19.500><c> checking</c><00:04:19.680><c> out</c></c><c.colorCCCCCC><00:04:19.920><c> my</c><00:04:20.070><c> unboxing</c></c><c.colorE5E5E5><00:04:20.250><c> of</c><00:04:20.850><c> the</c></c>
+
+00:04:21.060 --> 00:04:26.720 align:start position:19%
+<c.colorE5E5E5>SteelSeries</c>
+
+00:04:21.840 --> 00:04:26.720 align:start position:19%
+<c.colorE5E5E5>world<00:04:22.590><c> of</c></c><c.colorCCCCCC><00:04:22.770><c> warcraft</c></c><c.colorE5E5E5><00:04:23.250><c> MMO</c><00:04:23.820><c> gaming</c><00:04:24.300><c> mouse</c></c>
+
