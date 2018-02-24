@@ -1,4 +1,5 @@
 .vscode
 #not uploading any vtt/tsv 
 *.vtt
-*.tsv
+data/vtt/
+data/tsv/
