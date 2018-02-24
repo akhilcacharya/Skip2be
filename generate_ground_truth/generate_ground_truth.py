@@ -31,11 +31,15 @@ WIND_LEN = 10
 last_was_ad = False
 while i <len(contents):
     end_window = i+WIND_LEN
+    precent_through = int(i/len(contents)*100)
+    percent_str = str(precent_through)+"%"
     if end_window > len(contents):
         end_window = len(contents)
+    print(percent_str,end=' ')
     for x in range(i,end_window):
         print(contents[x].split('\t')[1].strip(),end=' ')
     print()
+    print(percent_str,end=' ')
     is_ad = ""
     if(last_was_ad):
         is_ad = input("Has ad?(Y/n/b): ")
@@ -47,7 +51,7 @@ while i <len(contents):
     elif(is_ad == "" and not last_was_ad):
         is_ad = "n"
 
-    print(is_ad)
+    #print(is_ad)
     if( is_ad == "n"):
         #code to mark as no
         last_was_ad = False
@@ -59,11 +63,13 @@ while i <len(contents):
         #code to mark as yes
         last_was_ad = True
         cnt = 0
+        print(percent_str,end=' ')
         for x in range(i,end_window):
             print(str(cnt)+":"+contents[x].split('\t')[1].strip(),end = ' ')
             cnt+=1
 
         print()
+        print(percent_str,end=' ')
         yes_range = input("range?(all):")
         if yes_range == "":
             yes_range = "0-"+str(end_window-i-1)
@@ -89,7 +95,8 @@ while i <len(contents):
         except AssertionError as e:
             print("numbers must be in specified range")
             continue
-        
+
+        print(percent_str,end=' ')
         for x in range(i,i+low_num):
             write_array[x] = contents[x].strip()+' 0'
         for x in range(i+low_num,i+high_num+1):
