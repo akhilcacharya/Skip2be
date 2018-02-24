@@ -1,1 +1,0 @@
-youtube-dl --write-auto-sub --skip-download -i -o "data/vtt/%(id)s.%(ext)s" $1

@@ -1,5 +1,5 @@
 import os, sys
-tsv_directory = "data/tsv/"
+tsv_directory = "../data/tsv/"
 classified_directory = "data/classified/"
 tsv_files = os.listdir(tsv_directory)
 classified_files = os.listdir(classified_directory)
