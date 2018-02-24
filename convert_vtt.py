@@ -11,7 +11,7 @@ def dump_token_timings(output_file, token_timings):
     print ("%d\t%s" % (token_timings[0], token_timings[1]), file = output_file)
 
 def fetch_word_time(line, before_delimiter='<', after_delimiter='>'):
-    text = str(line)
+    text = str(line.lines)
     def _line_tag_cleaner(line):
         if (line.startswith(before_delimiter) and
             line.count(before_delimiter) == 1 and
