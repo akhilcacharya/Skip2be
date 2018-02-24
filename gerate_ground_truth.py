@@ -28,6 +28,7 @@ print()
 
 i = 0
 WIND_LEN = 10
+last_was_ad = False
 while i <len(contents):
     end_window = i+WIND_LEN
     if end_window > len(contents):
@@ -35,16 +36,27 @@ while i <len(contents):
     for x in range(i,end_window):
         print(contents[x].split('\t')[1].strip(),end=' ')
     print()
-    is_ad = input("Has ad?(y/N/b): ")
+    is_ad = ""
+    if(last_was_ad):
+        is_ad = input("Has ad?(Y/n/b): ")
+    else:
+        is_ad = input("Has ad?(y/N/b): ")
 
-    if(len(is_ad) == 0 or is_ad == "n"):
+    if(last_was_ad and is_ad == ""):
+        is_ad = "y"
+    else:
+        is_ad = "n"
+
+    if( is_ad == "n"):
         #code to mark as no
+        last_was_ad = False
         for x in range(i,end_window):
             write_array[x] = contents[x].strip()+' 0'
         
         i+=WIND_LEN
     elif(is_ad == 'y'):
         #code to mark as yes
+        last_was_ad = True
         cnt = 0
         for x in range(i,end_window):
             print(str(cnt)+":"+contents[x].split('\t')[1].strip(),end = ' ')
