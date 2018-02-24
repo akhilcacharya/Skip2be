@@ -1,0 +1,973 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.219 --> 00:00:01.340
+ Hi, I'm Destin 
+
+00:00:01.340 --> 00:00:02.792
+ welcome back to Smarter Every Day. 
+
+00:00:02.792 --> 00:00:03.985
+ This is my column drill. 
+
+00:00:03.985 --> 00:00:07.676
+ Of all things that people could send to Mars 
+
+00:00:07.676 --> 00:00:09.105
+ on a nuclear-powered robot, 
+
+00:00:09.105 --> 00:00:12.593
+ a drill was one of the most important things we sent. 
+
+00:00:12.593 --> 00:00:13.658
+ And the reason we did this, 
+
+00:00:13.658 --> 00:00:14.506
+ think about this. 
+
+00:00:14.506 --> 00:00:17.240
+ This is the block and you have seen tree rings right? 
+
+00:00:17.240 --> 00:00:21.091
+ If we drill in this block, 
+
+00:00:21.091 --> 00:00:24.813
+ and then analyze the curls coming out of that hole, 
+
+00:00:24.813 --> 00:00:27.921
+ because of the growth rings we could go back in time and understand 
+
+00:00:27.921 --> 00:00:31.441
+ what all happened in this block when the tree was younger, right? 
+
+00:00:33.371 --> 00:00:36.252
+ That is exactly why they sent a drill to Mars. 
+
+00:00:36.252 --> 00:00:38.444
+ We want to understand if there were organic molecules 
+
+00:00:38.444 --> 00:00:40.579
+ in the rocks of Mars when they were formed. 
+
+00:00:40.579 --> 00:00:43.363
+ But to do that you have to drill under the surface 
+
+00:00:43.363 --> 00:00:45.082
+ and then analyze the powder. 
+
+00:00:45.082 --> 00:00:47.630
+ But every article I've ever read about the drill 
+
+00:00:47.630 --> 00:00:49.208
+ and how they analyze the powder 
+
+00:00:49.208 --> 00:00:51.243
+ does not really satisfy me. 
+
+00:00:51.243 --> 00:00:52.805
+ So today at Smarter Every Day 
+
+00:00:52.805 --> 00:00:53.932
+ Am I with JPL. 
+
+00:00:53.932 --> 00:00:55.908
+ This is Mark Rober .. Crazy! 
+
+00:00:55.908 --> 00:00:58.264
+ He's going to give me a tour of what? 
+
+00:00:59.504 --> 00:01:00.545
+ - Uh okay. 
+
+00:01:00.545 --> 00:01:01.290
+ - You missed your signal. 
+
+00:01:01.290 --> 00:01:01.998
+ - Sorry. [laughs] 
+
+00:01:01.998 --> 00:01:03.171
+ - We have to start over again, he missed his signal. 
+
+00:01:03.171 --> 00:01:04.357
+ - I just realized .. 
+
+00:01:05.197 --> 00:01:06.619
+ - This is my buddy Mark. 
+
+00:01:06.619 --> 00:01:08.592
+ Do you remember all those beautiful rocket movies where we 
+
+00:01:08.592 --> 00:01:11.262
+ the Curiosity Rover dropped to the surface of Mars 
+
+00:01:11.262 --> 00:01:13.047
+ with these beautiful rocket cranes? 
+
+00:01:13.047 --> 00:01:14.541
+ Yes, he helped to work on that. 
+
+00:01:14.541 --> 00:01:17.392
+ But more importantly, he owes me a bit more 
+
+00:01:17.392 --> 00:01:18.906
+ so I asked him if he could introduce me to the 
+
+00:01:18.906 --> 00:01:20.485
+ people behind the drill on the robber. 
+
+00:01:20.485 --> 00:01:23.460
+ I wanted to understand exactly how this thing works. 
+
+00:01:23.460 --> 00:01:25.562
+ - So we're going to the Mars yard, 
+
+00:01:25.562 --> 00:01:28.310
+ which is in fact a simulation of the surface of Mars. 
+
+00:01:28.310 --> 00:01:31.181
+ - Yes, look at both sides before crossing the street to Mars. 
+
+00:01:32.271 --> 00:01:34.255
+ - Looks .. Mars! 
+
+00:01:35.325 --> 00:01:37.294
+ - So this is the Curiosity garage? 
+
+00:01:37.294 --> 00:01:39.909
+ - Yes, so they bring it out here in the garden 
+
+00:01:39.909 --> 00:01:41.112
+ You can see the tracks here. 
+
+00:01:42.572 --> 00:01:44.538
+ But then when they only work on something inside 
+
+00:01:44.538 --> 00:01:45.889
+ they bring it back into the barn. 
+
+00:01:45.889 --> 00:01:48.471
+ - Wow. Oh man so this is the only one? 
+
+00:01:48.471 --> 00:01:49.285
+ Is this one of a kind? 
+
+00:01:49.285 --> 00:01:50.381
+ - It's one of a kind. 
+
+00:01:50.381 --> 00:01:51.970
+ The only one on the planet earth. 
+
+00:01:51.970 --> 00:01:53.838
+ - I think it's two of a kind. 
+
+00:01:53.838 --> 00:01:55.161
+ I am Destin, what is your name? 
+
+00:01:55.161 --> 00:01:56.196
+ Megan. 
+
+00:01:56.196 --> 00:01:57.677
+ - Can I shake your hand from here? 
+
+00:01:57.677 --> 00:01:59.107
+ Nice to meet you Megan. 
+
+00:01:59.107 --> 00:02:00.079
+ You run the test? 
+
+00:02:00.079 --> 00:02:01.720
+ - I'm turning it now, yes. 
+
+00:02:01.720 --> 00:02:03.072
+ - That's pretty great. 
+
+00:02:03.072 --> 00:02:04.665
+ He did not let you talk, 
+
+00:02:04.665 --> 00:02:06.795
+ but I want to talk to you, but there is a robber between us. 
+
+00:02:07.525 --> 00:02:10.127
+ This duplicate of the Curiosity rover exists 
+
+00:02:10.127 --> 00:02:12.484
+ allowing scientists and engineers software 
+
+00:02:12.484 --> 00:02:14.712
+ and can test difficult maneuvers without risking damage 
+
+00:02:14.712 --> 00:02:16.523
+ to the real hardware. 
+
+00:02:16.523 --> 00:02:18.435
+ Okay, we decided to stop rummaging 
+
+00:02:18.435 --> 00:02:20.665
+ and Megan is going to tell us what the instruments are. 
+
+00:02:20.665 --> 00:02:21.794
+ You know all the instruments right? 
+
+00:02:21.794 --> 00:02:24.995
+ - I know a lot about the drill and the Chimra because I tested them. 
+
+00:02:24.995 --> 00:02:25.742
+ - Yes? 
+
+00:02:25.742 --> 00:02:28.660
+ - So this is kind of the end of the drill here. 
+
+00:02:28.660 --> 00:02:29.775
+ - Can I walk there? 
+
+00:02:29.775 --> 00:02:31.035
+ - You can come here. 
+
+00:02:31.035 --> 00:02:32.672
+ - I will. So you slipped on it, right? 
+
+00:02:32.672 --> 00:02:33.808
+ - I slipped it. 
+
+00:02:33.808 --> 00:02:35.619
+ - To the earth, okay. 
+
+00:02:35.619 --> 00:02:37.039
+ - And so this what you see here 
+
+00:02:37.039 --> 00:02:38.881
+ we call Chimra, 
+
+00:02:38.881 --> 00:02:40.569
+ I have no idea what that acronym is. 
+
+00:02:40.569 --> 00:02:41.920
+ - Actually, it's the instrument belt? 
+
+00:02:41.920 --> 00:02:43.832
+ - This is the sample processing. 
+
+00:02:43.832 --> 00:02:46.903
+ - Okay, I really have to apologize now, 
+
+00:02:46.903 --> 00:02:49.070
+ because I started to become so enthusiastic 
+
+00:02:49.070 --> 00:02:50.904
+ because I was in the room with the robber, 
+
+00:02:50.904 --> 00:02:53.103
+ that I forgot that I was making a YouTube video. 
+
+00:02:53.103 --> 00:02:54.883
+ And I started asking questions and they were 
+
+00:02:54.883 --> 00:02:57.859
+ great questions, and then they let me do an assignment 
+
+00:02:57.859 --> 00:02:59.701
+ on the mast, and I moved it around. 
+
+00:02:59.701 --> 00:03:01.124
+ It was incredible. 
+
+00:03:01.124 --> 00:03:03.222
+ Anyway, I went back and I tried to summarize it 
+
+00:03:03.222 --> 00:03:06.105
+ everything I learned while I was offline in this recording. 
+
+00:03:06.105 --> 00:03:07.001
+ I'm very sorry. 
+
+00:03:07.001 --> 00:03:09.881
+ This is therefore the most important mast, the RSM. 
+
+00:03:09.881 --> 00:03:11.104
+ That stands for what? 
+
+00:03:11.104 --> 00:03:12.758
+ - Remote Sensing Mast. 
+
+00:03:12.758 --> 00:03:14.957
+ - Okay and there are two sensors on the side here 
+
+00:03:14.957 --> 00:03:16.566
+ and these are both for the weather. 
+
+00:03:16.566 --> 00:03:19.611
+ One of them on Mars is not working right now. 
+
+00:03:19.611 --> 00:03:22.038
+ Because it did not work at the landing anyway? 
+
+00:03:22.038 --> 00:03:26.164
+ Okay so this is the arm here that is used to 
+
+00:03:26.164 --> 00:03:27.791
+ collecting monsters on Mars, 
+
+00:03:27.791 --> 00:03:30.467
+ and uses Megan's drill, anyway, 
+
+00:03:30.467 --> 00:03:32.117
+ - The official name. 
+
+00:03:32.117 --> 00:03:34.860
+ - The official name. So that's the drill, 
+
+00:03:34.860 --> 00:03:37.439
+ and it must have enough life to live up to our primary 
+
+00:03:37.439 --> 00:03:41.675
+ targets on Mars, and after that does not go well for whatever reason 
+
+00:03:41.675 --> 00:03:43.763
+ if you want some whipped cream on the cake then you have 
+
+00:03:43.763 --> 00:03:45.643
+ two extra drills down here that you 
+
+00:03:45.643 --> 00:03:47.394
+ can switch autonomously. 
+
+00:03:47.394 --> 00:03:47.970
+ - Correct. 
+
+00:03:47.970 --> 00:03:49.910
+ - And that would be the first time ever that was done on another planet. 
+
+00:03:49.910 --> 00:03:51.975
+ And it's going to happen because you worked on it anyway? 
+
+00:03:51.975 --> 00:03:53.336
+ - I want it to happen. 
+
+00:03:53.336 --> 00:03:54.589
+ It would be really great to see. 
+
+00:03:54.589 --> 00:03:55.990
+ - Excellent. So here, 
+
+00:03:55.990 --> 00:03:57.410
+ looking at the monsters. 
+
+00:03:57.410 --> 00:04:02.422
+ So before we decide which samples we are going to analyze by doing them in this little hole here 
+
+00:04:02.422 --> 00:04:04.109
+ can we put the samples on the plate, 
+
+00:04:04.109 --> 00:04:09.044
+ we can measure their size, both by the surfaces there on the checkerboard 
+
+00:04:09.044 --> 00:04:10.978
+ or by dropping it through that funnel right? 
+
+00:04:10.978 --> 00:04:11.536
+ - Right. 
+
+00:04:11.536 --> 00:04:12.664
+ - And if we do that, 
+
+00:04:12.664 --> 00:04:15.416
+ we can, if it meets the criteria, we can 
+
+00:04:15.416 --> 00:04:17.345
+ do it and analyze it in this hole. 
+
+00:04:17.345 --> 00:04:19.671
+ And after analyzing it you dump it overboard. 
+
+00:04:19.671 --> 00:04:20.373
+ - Yeah. 
+
+00:04:20.373 --> 00:04:21.109
+ - Am I correct? 
+
+00:04:21.109 --> 00:04:21.730
+ - Yeah. 
+
+00:04:21.730 --> 00:04:22.576
+ - You are a good teacher. 
+
+00:04:22.576 --> 00:04:23.701
+ Megan is clearly a genius, 
+
+00:04:23.701 --> 00:04:25.856
+ but there were still a few questions that I had. 
+
+00:04:25.856 --> 00:04:28.405
+ I wanted to understand the exact interaction 
+
+00:04:28.405 --> 00:04:30.859
+ between drill and rock. 
+
+00:04:30.859 --> 00:04:32.672
+ That's why I came to see Ryan. 
+
+00:04:32.672 --> 00:04:33.619
+ What is your title? 
+
+00:04:33.619 --> 00:04:35.104
+ - Drill system engineer. 
+
+00:04:35.104 --> 00:04:36.394
+ - So what is this here? 
+
+00:04:36.394 --> 00:04:37.064
+ What do you have? 
+
+00:04:37.064 --> 00:04:38.369
+ - This is a drilling assembly. 
+
+00:04:38.369 --> 00:04:39.174
+ - OK. 
+
+00:04:39.174 --> 00:04:42.082
+ - This is not just our drill, 
+
+00:04:42.082 --> 00:04:45.079
+ that, if you look closely, this is a stone drill, 
+
+00:04:45.079 --> 00:04:47.992
+ it is not like the sharp bits you have on 
+
+00:04:47.992 --> 00:04:50.485
+ your hand drill. 
+
+00:04:50.485 --> 00:04:54.168
+ It is more of a chisel and it is designed for impact drilling. 
+
+00:04:54.168 --> 00:04:55.978
+ - OK. So how does it work? 
+
+00:04:55.978 --> 00:04:57.856
+ - So first we put our drill, 
+
+00:04:57.856 --> 00:05:00.501
+ we put our drill stabilizers against the rock 
+
+00:05:00.501 --> 00:05:03.348
+ to ensure that we have a nice stable configuration. 
+
+00:05:03.348 --> 00:05:05.771
+ Then we drop down until we hit the rock. 
+
+00:05:05.771 --> 00:05:06.407
+ - OK. 
+
+00:05:06.407 --> 00:05:10.654
+ - We start drilling with a process called begingat. 
+
+00:05:10.654 --> 00:05:16.011
+ So if you can imagine, if we are on a rock and not perfectly aligned 
+
+00:05:16.011 --> 00:05:17.985
+ and there are all these surface properties, 
+
+00:05:17.985 --> 00:05:19.337
+ little holes on the rock, 
+
+00:05:19.337 --> 00:05:21.086
+ the drill wants to walk around 
+
+00:05:21.086 --> 00:05:23.062
+ Imagine if you were trying to cut metal 
+
+00:05:23.062 --> 00:05:26.103
+ usually you put a small pilot hole before you start drilling. 
+
+00:05:26.103 --> 00:05:27.934
+ - Not to break the drill, 
+
+00:05:27.934 --> 00:05:29.939
+ Is that the same reason you do that here? 
+
+00:05:29.939 --> 00:05:32.754
+ - Yes, so we have a process called begingat 
+
+00:05:32.754 --> 00:05:36.599
+ it starts the first 5 mm of our hole 
+
+00:05:36.599 --> 00:05:42.933
+ and actually what we do is chisel small holes to carve out an asterisk shape. 
+
+00:05:42.933 --> 00:05:47.092
+ [hammer drill sound] 
+
+00:05:48.511 --> 00:05:51.615
+ Then we drill that out and we repeat that process 
+
+00:05:51.615 --> 00:05:54.752
+ as often as necessary to go 5 mm deep. 
+
+00:05:54.752 --> 00:05:57.665
+ Then we have a good starting point for the rest of our drilling. 
+
+00:05:58.336 --> 00:06:00.863
+ [hammer drill sound] 
+
+00:06:01.216 --> 00:06:03.190
+ It is not the rotation that really cuts the rock 
+
+00:06:03.190 --> 00:06:05.770
+ it is really the hammering action. 
+
+00:06:05.770 --> 00:06:09.493
+ [hammer drill] 
+
+00:06:10.230 --> 00:06:13.633
+ Like a jackhammer and then the rotation that we do is mainly 
+
+00:06:13.633 --> 00:06:16.309
+ for getting the powder through the sheath. 
+
+00:06:16.309 --> 00:06:19.637
+ We continuously drill until we remove the drill. 
+
+00:06:19.637 --> 00:06:22.518
+ We literally punch the front of it 
+
+00:06:22.518 --> 00:06:24.225
+ drill set against the rock. 
+
+00:06:24.225 --> 00:06:27.912
+ Before we drill we do a trial, 
+
+00:06:27.912 --> 00:06:31.563
+ We drill a little bit, so we can see what the powder will look like 
+
+00:06:31.563 --> 00:06:34.025
+ because we are concerned about or as it turns out 
+
+00:06:34.025 --> 00:06:37.929
+ that this material is hydrated and it 
+
+00:06:37.929 --> 00:06:43.360
+ somewhat sticky, it can clog our drilling assembly. 
+
+00:06:43.360 --> 00:06:44.232
+ - Is it, on Mars? 
+
+00:06:44.232 --> 00:06:46.912
+ - It is possible, and that is one of the interesting things 
+
+00:06:46.912 --> 00:06:52.480
+ scientific findings recently is that there is a water cycle, 
+
+00:06:52.480 --> 00:06:54.770
+ an active water cycle near the surface of Mars 
+
+00:06:54.770 --> 00:06:56.224
+ even at Gale Krater. 
+
+00:06:56.224 --> 00:06:59.202
+ - Do you have one of the drills outside the drill head? 
+
+00:06:59.202 --> 00:07:02.526
+ - Not with me here, but I can show you one on my desk 
+
+00:07:02.526 --> 00:07:05.424
+ if you are interested in what that looks like. 
+
+00:07:05.424 --> 00:07:09.663
+ I have a 3D printed model of this where the drill itself is made of metal, but the rest 
+
+00:07:09.663 --> 00:07:12.480
+ the housing is transparent plastic, so you can see through it. 
+
+00:07:12.480 --> 00:07:14.026
+ - Wow, can we do that? 
+
+00:07:14.026 --> 00:07:14.674
+ - Yes. 
+
+00:07:14.674 --> 00:07:18.814
+ - So what you're drilling, you're swallowing the material in here anyway, 
+
+00:07:18.814 --> 00:07:19.594
+ this housing? 
+
+00:07:19.594 --> 00:07:23.206
+ - Exactly. Yes in the first of our two chambers in the drilling assembly. 
+
+00:07:23.206 --> 00:07:27.382
+ So we have two rooms in the drill assembly specifically 
+
+00:07:27.382 --> 00:07:31.196
+ so it gives us some freedom to the robot arm 
+
+00:07:31.196 --> 00:07:34.971
+ move around without worrying about spilling 
+
+00:07:34.971 --> 00:07:38.144
+ material through the exit tube before we are finished 
+
+00:07:38.144 --> 00:07:39.208
+ to transfer it. 
+
+00:07:39.208 --> 00:07:43.210
+ So once we get it in the first room it is in that first room 
+
+00:07:43.210 --> 00:07:47.935
+ until we transfer it through this little slot that you can see here. 
+
+00:07:47.935 --> 00:07:48.542
+ - Yes. 
+
+00:07:48.542 --> 00:07:51.423
+ - So we transfer it through that slot. 
+
+00:07:51.423 --> 00:07:53.362
+ We use percussion to shake things up 
+
+00:07:53.362 --> 00:07:57.407
+ and we use gravity to determine which direction the stuff goes. 
+
+00:07:57.407 --> 00:07:59.109
+ - So that's the mass flow that you were talking about. 
+
+00:07:59.109 --> 00:07:59.627
+ - Yes. 
+
+00:07:59.627 --> 00:08:01.424
+ - Can I pretend to be the robotic arm for a second? 
+
+00:08:01.424 --> 00:08:01.873
+ - Please. 
+
+00:08:01.873 --> 00:08:05.457
+ - Yes, okay so you've got that slot, 
+
+00:08:05.457 --> 00:08:08.009
+ and so you want to keep that slot down 
+
+00:08:08.009 --> 00:08:10.047
+ so you want to start drilling, 
+
+00:08:10.047 --> 00:08:12.208
+ and then you pick it up and as long as that slot to 
+
+00:08:12.208 --> 00:08:14.248
+ above is you holding all your sample particles? 
+
+00:08:14.248 --> 00:08:14.738
+ - That's right. 
+
+00:08:14.738 --> 00:08:16.252
+ - Okay and so on that point 
+
+00:08:16.252 --> 00:08:18.354
+ when you have it where you have to go then you can 
+
+00:08:18.354 --> 00:08:21.285
+ turning it and then you dump it through that little slit there 
+
+00:08:21.285 --> 00:08:22.546
+ in the next room? 
+
+00:08:22.546 --> 00:08:23.389
+ No wait back this way right? 
+
+00:08:23.389 --> 00:08:24.136
+ - That's right. 
+
+00:08:24.136 --> 00:08:25.233
+ - Okay, so you kind of .. 
+
+00:08:25.233 --> 00:08:26.461
+ - Through the slot to the second room. 
+
+00:08:26.461 --> 00:08:28.628
+ - Slips almost, almost in your hand like this, right? 
+
+00:08:28.628 --> 00:08:31.507
+ No, you turn again and it goes out of that opening. 
+
+00:08:31.507 --> 00:08:32.517
+ - That's right. 
+
+00:08:32.524 --> 00:08:39.574
+ Gravity operations by the Robot Arm and the vibrations generated by the Drill mechanism are used to transfer the sample to the CHIMRA. 
+
+00:08:44.444 --> 00:08:47.344
+ - Okay, so we've drilled our rock and now we've got the powder 
+
+00:08:47.344 --> 00:08:48.601
+ on the inside of the rock. 
+
+00:08:48.601 --> 00:08:52.348
+ In a very specific circumstance when you find a special rock 
+
+00:08:52.348 --> 00:08:54.749
+ and you think you even have organic molecules 
+
+00:08:54.749 --> 00:08:57.490
+ on the inside of that rock, you have to calibrate your instruments. 
+
+00:08:57.490 --> 00:08:59.699
+ To do this, JPL was pretty smart. 
+
+00:08:59.699 --> 00:09:02.345
+ They put these cans on the front of the rover 
+
+00:09:02.345 --> 00:09:04.831
+ that are only used in certain circumstances. 
+
+00:09:04.831 --> 00:09:07.026
+ I let Megan explain what they are for. 
+
+00:09:07.026 --> 00:09:09.708
+ So what is called OCM in these cans 
+
+00:09:09.708 --> 00:09:11.559
+ What is Organic Control Material? 
+
+00:09:11.559 --> 00:09:12.424
+ - Yeah that's right. 
+
+00:09:12.424 --> 00:09:15.143
+ - Okay and so the idea is that you have a known monster that you can test 
+
+00:09:15.143 --> 00:09:19.560
+ on Mars, so you can ensure that your sensors work correctly. 
+
+00:09:19.560 --> 00:09:20.529
+ - Right. 
+
+00:09:20.529 --> 00:09:24.209
+ - And that is basically the same as the color palette there 
+
+00:09:24.209 --> 00:09:26.950
+ so you can check that your cameras work correctly, 
+
+00:09:26.950 --> 00:09:28.636
+ This is the same for your sensors 
+
+00:09:28.636 --> 00:09:30.183
+ to see if there is life on Mars. 
+
+00:09:30.183 --> 00:09:33.254
+ - Right, for the instruments. For whatever scientific instrument they want. 
+
+00:09:33.254 --> 00:09:34.482
+ - So you say that's organic, 
+
+00:09:34.482 --> 00:09:36.358
+ so are those pieces that were alive? 
+
+00:09:36.358 --> 00:09:38.332
+ - If you are looking for organic substances on Mars 
+
+00:09:38.332 --> 00:09:40.017
+ and you think you found it 
+
+00:09:40.017 --> 00:09:42.597
+ you want to forward something that does not contain organic substances 
+
+00:09:42.597 --> 00:09:44.669
+ and analyze and make sure you do not see it, 
+
+00:09:44.669 --> 00:09:46.738
+ and again test the thing that has organic substances. 
+
+00:09:46.738 --> 00:09:48.221
+ - Ohh. So what you say is, 
+
+00:09:48.221 --> 00:09:51.578
+ An Organic Control Material is basically just like 
+
+00:09:51.578 --> 00:09:54.236
+ eating a cräcker what the peculiar wine tasting boys do, 
+
+00:09:54.236 --> 00:09:55.620
+ - For cleaning the .. 
+
+00:09:55.620 --> 00:09:56.978
+ - To clean the palate. 
+
+00:09:56.978 --> 00:09:59.602
+ Come on my level here. [laughs] 
+
+00:09:59.602 --> 00:10:01.084
+ So that's what that is. 
+
+00:10:01.084 --> 00:10:04.289
+ This is actually a number of cräckers that you eat 
+
+00:10:04.289 --> 00:10:07.452
+ between your monsters to make sure you know what's going on. 
+
+00:10:07.452 --> 00:10:08.087
+ Excellent. 
+
+00:10:08.087 --> 00:10:10.324
+ The next time you see a perfect borehole 
+
+00:10:10.324 --> 00:10:11.387
+ in the surface of Mars, 
+
+00:10:11.387 --> 00:10:13.370
+ do not think about it, you know, a column drill 
+
+00:10:13.370 --> 00:10:14.589
+ or a percussion drill. 
+
+00:10:14.589 --> 00:10:17.535
+ Think of a carefully executed group of maneuvers 
+
+00:10:17.535 --> 00:10:19.534
+ specially designed to obtain dust. 
+
+00:10:19.534 --> 00:10:20.539
+ It goes like this. 
+
+00:10:20.539 --> 00:10:22.704
+ You put the drill in, 
+
+00:10:22.704 --> 00:10:24.327
+ you take out the drill. 
+
+00:10:24.327 --> 00:10:26.259
+ You put the drill in, 
+
+00:10:26.259 --> 00:10:28.357
+ and you get the dust out completely. 
+
+00:10:28.357 --> 00:10:31.844
+ You do the mass transfer by turning CHIMRA over, 
+
+00:10:31.844 --> 00:10:35.566
+ and that's how you dump the dust out. 
+
+00:10:35.566 --> 00:10:38.673
+ I've just ruined the Hokey Pokey for the rest of your life. 
+
+00:10:38.673 --> 00:10:41.415
+ Gladly done, and I invented that and it's great. 
+
+00:10:41.415 --> 00:10:42.640
+ YES! 
+
+00:10:42.941 --> 00:10:44.658
+ I hope you enjoyed this episode of Smarter Every Day, 
+
+00:10:44.658 --> 00:10:46.492
+ it was offered to you by audible.com. 
+
+00:10:46.492 --> 00:10:48.846
+ Audible as you know is really a cool way 
+
+00:10:48.846 --> 00:10:51.238
+ where you can listen to audiobooks on your phone. 
+
+00:10:51.238 --> 00:10:53.371
+ Yes you are smart people, you know where this is going. 
+
+00:10:53.371 --> 00:10:56.507
+ This is my audible.com library and here at the top of the list, 
+
+00:10:56.507 --> 00:10:57.832
+ yep you guessed it, 
+
+00:10:57.832 --> 00:10:59.803
+ The Martian by Andy Weir. 
+
+00:10:59.803 --> 00:11:00.963
+ I know there's a movie out, 
+
+00:11:00.963 --> 00:11:02.639
+ but if you have not experienced the book 
+
+00:11:02.639 --> 00:11:04.133
+ you really have to do that. 
+
+00:11:04.133 --> 00:11:06.065
+ You can get any audiobook you want for free 
+
+00:11:06.065 --> 00:11:07.527
+ at audible.com/smarter. 
+
+00:11:07.527 --> 00:11:10.363
+ I recommend The Martian, because there is much more science in the book 
+
+00:11:10.363 --> 00:11:12.431
+ then that there was in the movie you probably already watched. 
+
+00:11:12.431 --> 00:11:15.534
+ if you sit here watching a ten minute video about drilling on Mars. 
+
+00:11:15.534 --> 00:11:17.094
+ Anyway, I am Destin. 
+
+00:11:17.094 --> 00:11:20.092
+ Thank you so much for even considering viewing 
+
+00:11:20.092 --> 00:11:21.905
+ ten minutes of video on the internet. 
+
+00:11:21.905 --> 00:11:23.002
+ I know that's a long time. 
+
+00:11:23.002 --> 00:11:25.712
+ Anyway, please consider subscribing if this has added value to your life. 
+
+00:11:25.712 --> 00:11:27.458
+ Please consider supporting the sponsor. 
+
+00:11:27.458 --> 00:11:28.557
+ If not, nothing bad. 
+
+00:11:28.557 --> 00:11:30.532
+ I appreciate you. 
+
+00:11:30.532 --> 00:11:31.280
+ I'm Destin, 
+
+00:11:31.280 --> 00:11:32.412
+ you become Smarter Every Day. 
+
+00:11:32.412 --> 00:11:34.181
+ Another good one. Bye. 
+
+00:11:38.351 --> 00:11:42.662
+ It crosses borders. [Whispers] It crosses borders. Does it go beyond the limits to ask if I can high-fade the rover? 
+
+00:11:42.662 --> 00:11:46.148
+ - Umm ... you can not do that by ESD. 
+
+00:11:46.148 --> 00:11:47.962
+ - Can I .. Okay you're grounded right? 
+
+00:11:47.962 --> 00:11:49.251
+ - So I grounded. We have.. 
+
+00:11:49.251 --> 00:11:53.488
+ - Can I high-fiven you, that's like the rover high-fiven 
+
+00:11:53.488 --> 00:11:55.129
+ Because you are at the same electrical potential. 
+
+00:11:55.129 --> 00:11:56.070
+ Can we do this? 
+
+00:11:58.730 --> 00:11:59.232
+ No? 
+
+00:11:59.232 --> 00:12:01.174
+ - That is such a strange question. 
+
+00:12:01.174 --> 00:12:02.502
+ [laughs] 
+
+00:12:02.502 --> 00:12:03.979
+ - Yes! 
+
+00:12:03.979 --> 00:12:08.695
+ [whispers] Megan we are like friends now. It took about 20 minutes. We are best friends. 
+
+00:12:08.695 --> 00:12:11.384
+ She is about to give me an assignment. 
+
