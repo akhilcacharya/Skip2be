@@ -42,11 +42,12 @@ while i <len(contents):
     else:
         is_ad = input("Has ad?(y/N/b): ")
 
-    if(last_was_ad and is_ad == ""):
+    if( is_ad == "" and last_was_ad):
         is_ad = "y"
-    else:
+    elif(is_ad == "" and not last_was_ad):
         is_ad = "n"
 
+    print(is_ad)
     if( is_ad == "n"):
         #code to mark as no
         last_was_ad = False
