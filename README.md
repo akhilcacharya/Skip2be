@@ -11,10 +11,10 @@ Use text analysis on Google-generated captions in YouTube videos in order to det
 Run ```fetch_sub.sh```: 
 
 ```
-$ sh fetch_sub.sh [youtube_url]
+$ sh fetch_sub.sh [youtube_playlist]
 ```
 
-This will download an English automated caption to the local disk in the form of a .vtt file. 
+This will download an English automated caption to the local disk in the form of a .vtt file and save them to data/vtt. You should probably make sure to actually have these directories before attempting to run the script. 
 
 TODO: save these or script/cd them into their own directory (for VTT files)
 

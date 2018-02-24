@@ -1,6 +1,7 @@
 from webvtt import WebVTT
 import re
 import sys
+import os
 from datetime import datetime
 
 def dump_chunk_timings(output_file, chunk_timings): 
@@ -62,10 +63,10 @@ def parse(vtt_file):
 
     name = vtt_file.split(".vtt")[0]
     
-    vtt_lines = WebVTT().read(vtt_file)
+    vtt_lines = WebVTT().read("data/vtt/" + vtt_file)
 
-    token_output = open("%s_token_output.tsv" % name, "w")
-    chunk_output = open("%s_chunk_output.tsv" % name, "w")
+    token_output = open("data/tsv/%s_token_output.tsv" % name, "w")
+    chunk_output = open("data/tsv/%s_chunk_output.tsv" % name, "w")
 
     for line in vtt_lines:
 
@@ -80,14 +81,44 @@ def parse(vtt_file):
 
     token_output.close() 
     chunk_output.close()
+def parse_all():
+    
+    for vtt_file in os.listdir("data/vtt"):
 
+        name = vtt_file.split(".vtt")[0]
+        
+        vtt_lines = WebVTT().read("data/vtt/" + vtt_file)
+
+        token_output = open("data/tsv/%s_token_output.tsv" % name, "w")
+        chunk_output = open("data/tsv/%s_chunk_output.tsv" % name, "w")
+
+        for line in vtt_lines:
+
+            token_timings = fetch_word_time(line)
+
+            chunk_timings = fetch_chunk_time(line)
+
+            dump_chunk_timings(chunk_output, chunk_timings)
+
+            for timing in token_timings: 
+                dump_token_timings(token_output, timing)
+
+        token_output.close() 
+        chunk_output.close()
+    
 def main(args): 
-    if len(args) != 1: 
-        print("Usage: python convert_vtt.py file.vtt")
+    if len(args) >= 2: 
+        print("Usage:")
+        print("Parse all: python convert_vtt.py")
+        print("Parse single: python convert_vtt.py file.vtt")
         sys.exit(1)
-    vtt_file = args[0]
-    parse(vtt_file)
-
+    if len(args) != 0:
+        print("Parsing " + args[0])
+        vtt_file = args[0]
+        parse(vtt_file)
+    else:
+        print("Parsing all")
+        parse_all()
 
 if __name__ == "__main__": 
     main(sys.argv[1:])
