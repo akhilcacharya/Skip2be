@@ -1,31 +1,16 @@
-#!/usr/bin/env python2
-import sys
-from os.path import abspath, exists
-from datetime import datetime
+from webvtt import WebVTT
 import re
-
-from pyvtt import WebVTTFile, WebVTTItem
+import sys
+from datetime import datetime
 
 def dump_chunk_timings(output_file, chunk_timings): 
-    print >>output_file, "%d\t%s" % (chunk_timings[0], chunk_timings[1])
+    print ("%d\t%s" % (chunk_timings[0], chunk_timings[1]), file = output_file)
 
 def dump_token_timings(output_file, token_timings): 
-    print >>output_file, "%d\t%s" % (token_timings[0], token_timings[1])
-
-def str_to_ms(time_str): 
-    # Amazing hack! 
-    epoch = datetime(1900, 1, 1)
-    tm = datetime.strptime(time_str, '%H:%M:%S.%f')
-    ms = (tm - epoch).total_seconds() * 1000 
-    return ms
-
-def fetch_chunk_time(line): 
-    ms = str_to_ms(unicode(line.start))
-    text = line.text_without_tags
-    return (ms, text)
+    print ("%d\t%s" % (token_timings[0], token_timings[1]), file = output_file)
 
 def fetch_word_time(line, before_delimiter='<', after_delimiter='>'):
-    text = unicode(line)
+    text = str(line)
     def _line_tag_cleaner(line):
         if (line.startswith(before_delimiter) and
             line.count(before_delimiter) == 1 and
@@ -49,26 +34,35 @@ def fetch_word_time(line, before_delimiter='<', after_delimiter='>'):
     # HACK
     line_timings = [timing.replace("<", "").replace(">", "") for timing in line_timings if ":" in timing]
 
-    line_timings = [unicode(line.start)] + line_timings
+    line_timings = [str(line.start)] + line_timings
     
     # Converto to MS
     line_timings = [str_to_ms(timing) for timing in line_timings]
 
     # Zip with the original words
-    filtered_text = line.text_without_tags
+    filtered_text = line.text
 
     tokens = filtered_text.split(" ")
 
     token_timings = zip(line_timings, tokens)
 
     return token_timings
-
+def fetch_chunk_time(line): 
+    ms = str_to_ms(str(line.start))
+    text = line.text
+    return (ms, text)
+def str_to_ms(time_str): 
+    # Amazing hack!  
+    epoch = datetime(1900, 1, 1)
+    tm = datetime.strptime(time_str, '%H:%M:%S.%f')
+    ms = (tm - epoch).total_seconds() * 1000 
+    return ms
 
 def parse(vtt_file): 
 
     name = vtt_file.split(".vtt")[0]
     
-    vtt_lines = WebVTTFile.open(vtt_file)
+    vtt_lines = WebVTT().read(vtt_file)
 
     token_output = open("%s_token_output.tsv" % name, "w")
     chunk_output = open("%s_chunk_output.tsv" % name, "w")
@@ -87,10 +81,9 @@ def parse(vtt_file):
     token_output.close() 
     chunk_output.close()
 
-
 def main(args): 
     if len(args) != 1: 
-        print "Usage: python convert_vtt.py file.vtt"
+        print("Usage: python convert_vtt.py file.vtt")
         sys.exit(1)
     vtt_file = args[0]
     parse(vtt_file)
