@@ -16,8 +16,6 @@ $ sh fetch_sub.sh [youtube_playlist]
 
 This will download an English automated caption to the local disk in the form of a .vtt file and save them to data/vtt. You should probably make sure to actually have these directories before attempting to run the script. 
 
-TODO: save these or script/cd them into their own directory (for VTT files)
-
 ### Data Transform 
 
 Run the converter script. 
@@ -37,6 +35,5 @@ This will dump 2 text files per vtt to the local disk.
 
 2) VIDEO_ID.token_output.tsv - Outputs a TSV mapping between the start time in ms to the token in the overall transcription. 
 
-TODO: save these or script/cd them into their own directory (for TSV files). 
 
 
