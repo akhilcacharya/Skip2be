@@ -40,9 +40,9 @@ while i <len(contents):
     print(percent_str,end=' ')
     is_ad = ""
     if(last_was_ad):
-        is_ad = input("Has ad?(Y/n/b): ")
+        is_ad = input("\t \t\tHas ad?(Y/n/b): \n")
     else:
-        is_ad = input("Has ad?(y/N/b): ")
+        is_ad = input("\t \t\tHas ad?(y/N/b): \n")
 
     if( is_ad == "" and last_was_ad):
         is_ad = "y"

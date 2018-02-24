@@ -5,7 +5,8 @@ import sys
 import os
 from datetime import datetime
 
-def dump_chunk_timings(output_file, chunk_timings): 
+def dump_chunk_timings(output_file, chunk_timings):
+    print(output_file)
     print ("%d\t%s" % (chunk_timings[0], chunk_timings[1]), file = output_file)
 
 def dump_token_timings(output_file, token_timings): 
@@ -66,8 +67,8 @@ def parse(vtt_file):
     
     vtt_lines = WebVTT().read("../data/vtt/" + vtt_file)
 
-    token_output = open("./data/tsv/%s_token_output.tsv" % name, "w")
-    chunk_output = open("./data/tsv/%s_chunk_output.tsv" % name, "w")
+    token_output = open("../data/tsv/%s_token_output.tsv" % name, "w")
+    chunk_output = open("../data/tsv/%s_chunk_output.tsv" % name, "w")
 
     for line in vtt_lines:
 
