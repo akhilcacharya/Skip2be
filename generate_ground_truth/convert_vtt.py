@@ -66,8 +66,8 @@ def parse(vtt_file):
     
     vtt_lines = WebVTT().read("../data/vtt/" + vtt_file)
 
-    token_output = open("../data/tsv/%s_token_output.tsv" % name, "w")
-    chunk_output = open("../data/tsv/%s_chunk_output.tsv" % name, "w")
+    token_output = open("./data/tsv/%s_token_output.tsv" % name, "w")
+    chunk_output = open("./data/tsv/%s_chunk_output.tsv" % name, "w")
 
     for line in vtt_lines:
 
@@ -84,14 +84,14 @@ def parse(vtt_file):
     chunk_output.close()
 def parse_all():
     
-    for vtt_file in os.listdir("data/vtt"):
+    for vtt_file in os.listdir("../data/vtt"):
 
         name = vtt_file.split(".vtt")[0]
         
-        vtt_lines = WebVTT().read("data/vtt/" + vtt_file)
+        vtt_lines = WebVTT().read("../data/vtt/" + vtt_file)
 
-        token_output = open("data/tsv/%s_token_output.tsv" % name, "w")
-        chunk_output = open("data/tsv/%s_chunk_output.tsv" % name, "w")
+        token_output = open("../data/tsv/%s_token_output.tsv" % name, "w")
+        chunk_output = open("../data/tsv/%s_chunk_output.tsv" % name, "w")
 
         for line in vtt_lines:
 
