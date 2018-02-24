@@ -36,4 +36,10 @@ This will dump 2 text files per vtt to the local disk.
 2) VIDEO_ID.token_output.tsv - Outputs a TSV mapping between the start time in ms to the token in the overall transcription. 
 
 
+## FastText 
+
+Installing fastText 
+
+``$ cd fastText && pip install .```
+
 
