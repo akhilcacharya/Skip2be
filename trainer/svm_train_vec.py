@@ -32,7 +32,7 @@ def main(args):
     print("Loading word2vec!")
     vectorizer = KeyedVectors.load_word2vec_format('crawl-300d-2M.vec')
 
-    train = open(args[0])
+    train = open(args[0], encoding="ISO-8859-1")
 
     X = []
     y = []
