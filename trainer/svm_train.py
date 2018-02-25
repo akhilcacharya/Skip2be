@@ -31,21 +31,12 @@ def main(args):
     corpus = []
     times = []
 
-    numpos = 0
-    numneg = 0
 
     for line in train:
         label, chunk, time = line.rstrip().split("\t")
         label = int(label)
 
-        # Normalize data
-        if label:
-            numpos += 1
-            corpus.append(chunk)
-            y.append(label)
-            times.append(float(time))
-        elif numneg < numpos:
-            numneg += 1
+        for _ in range(0, 1 + 5*label):
             corpus.append(chunk)
             y.append(label)
             times.append(float(time))
