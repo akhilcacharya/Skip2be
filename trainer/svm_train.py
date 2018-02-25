@@ -24,7 +24,7 @@ def main(args):
         print("Usage: train.py [data set]")
         sys.exit(1)
 
-    train = open(args[0])
+    train = open(args[0], encoding="ISO-8859-1")
 
     X = []
     y = []
