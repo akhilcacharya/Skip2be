@@ -19,6 +19,7 @@ def dump_chunk(output_file, chunk, max_time):
         line = line_template % (label, chunk_text, float(time)/max_time)
         print(line, file=output_file)
 
+# Gets the max time for some video so we can normialize the video times
 def get_max_time(f):
     m = 0
     for l in f.readlines():
@@ -53,38 +54,13 @@ def convert(folder):
     output_file.close()
     print("Finished converting; dumped to", output_path)
 
-def split(): 
-    print("Splitting data by 70-15-15")
-    with open(os.path.join(output_path, output_file_name)) as dataset_file: 
-        lines = list(dataset_file.readlines()) 
-
-        size = len(lines)
-
-        train_size = int(size * 0.7)
-        valid_size = train_size + int(size * 0.15)
-        test_size = valid_size + int(size * 0.15)
-
-        with open(os.path.join(output_path, "dataset.train"), "w") as output_file: 
-            output_file.writelines(lines[0:train_size])
-
-        with open(os.path.join(output_path, "dataset.valid"), "w") as output_file: 
-            output_file.writelines(lines[train_size:valid_size])
-        
-        with open(os.path.join(output_path, "dataset.test"), "w") as output_file: 
-            output_file.writelines(lines[valid_size:test_size])
-
-    print("Finished splitting data")
 
 def main(args): 
     if len(args) != 1: 
         print("Usage: ./convert_svm.py [training_data_folder]")
         sys.exit(1)
-
     folder = args[0]
-
     convert(folder)
-    split()
-
 
 
 if __name__ == "__main__": 
