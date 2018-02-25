@@ -40,6 +40,6 @@ This will dump 2 text files per vtt to the local disk.
 
 Installing fastText 
 
-``$ cd fastText && pip install .```
+```$ cd fastText && pip install .```
 
 
