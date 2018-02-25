@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+  
+    "name": "skiptube",
+    "description": "This extension allows the user to skip youtube intros/ads.",
+    "version": "1.0",
+  
+    "browser_action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab",
+      "storage"
+    ],
+    "content_scripts": [{
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["gun.js","path.js","jquery.js", "ytskip.js"]
+    }]
+  }
