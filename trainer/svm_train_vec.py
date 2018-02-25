@@ -3,52 +3,62 @@
 import sys
 import os
 from sklearn.svm import LinearSVC
-from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import average_precision_score, accuracy_score
 import numpy as np
-from scipy.sparse import coo_matrix, hstack
 from sklearn.model_selection import train_test_split
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
-from sklearn.externals import joblib
+from gensim.models import KeyedVectors
+from gensim.utils import simple_preprocess
+import numpy as np
 
-def build_vectorizor(corpus):
-    vectorizer = TfidfVectorizer(analyzer="char_wb", ngram_range=(3,9))
-    vectorizer.fit(corpus)
-    return vectorizer
+
+def get_sentence_vec(words, vectorizer):
+    sentence_vec = np.zeros(300)
+    for word in words:
+        try:
+            sentence_vec += vectorizer.get_vector(word)
+        except KeyError:
+            pass
+    if len(words) > 0:
+        return sentence_vec/len(words)
+    return sentence_vec
 
 
 def main(args): 
+    
     if len(args) != 1: 
         print("Usage: train.py [data set]")
         sys.exit(1)
 
-    train = open(args[0])
+    print("Loading word2vec!")
+    vectorizer = KeyedVectors.load_word2vec_format('crawl-300d-2M.vec')
+
+    train = open(args[0], encoding="ISO-8859-1")
 
     X = []
     y = []
-    corpus = []
     times = []
+    corpus = []
 
+    # Load in all of the data
     for line in train:
         label, chunk, time = line.rstrip().split("\t")
         label = int(label)
-
         # Normalize data
         for _ in range(0, 1 + 5 * label):
             corpus.append(chunk)
+            X.append((get_sentence_vec(simple_preprocess(chunk), vectorizer)))
             y.append(label)
             times.append(float(time))
 
-    vectorizer = build_vectorizor(corpus)
-    X = vectorizer.transform(corpus)
+    X = np.array(X)
     times = (np.array(times)).reshape((-1,1))
-    X = hstack((X, times))
+    X = np.hstack((X, times))
 
     # Split Data
-    X_train, X_val, y_train, y_val, corpus_train, corpus_val = train_test_split(X,y,corpus, test_size=0.50)
+    X_train, X_val, y_train, y_val, corpus_train, corpus_val = train_test_split(X,y,corpus, test_size=0.20)
 
     # Train SVM
+    print("Training SVM!")
     clf = LinearSVC()
     clf.fit(X_train,y_train)
 
@@ -64,18 +74,12 @@ def main(args):
     print("precision-recall: ", average_precision_score(y_val, predictions))
     print("Acc: ", accuracy_score(y_val, predictions))
 
-
-    print("Saving Model!")
-    joblib.dump(vectorizer, 'vectorizer.pkl')
-    joblib.dump(clf, 'trained_svm.pkl')
-
-
     # Let user input examples
     while True:
         test = input('Enter a chunk: ')
         test = [test] * 9
-        test = vectorizer.transform(test)
-        test = hstack((test, np.linspace(0,1, num=9).reshape((-1,1))))
+        test = get_sentence_vec(simple_preprocess(chunk), vectorizer)
+        test = np.hstack((test, np.linspace(0,1, num=9).reshape((-1,1))))
 
         print(test)
         print(clf.predict(test))

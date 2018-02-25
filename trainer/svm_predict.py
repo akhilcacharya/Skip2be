@@ -1,3 +1,4 @@
+import sklearn
 from sklearn.externals import joblib
 import numpy as np
 from scipy.sparse import coo_matrix, hstack
@@ -15,3 +16,5 @@ def predict(chunk, time):
 if __name__ == "__main__":
     print(predict("video description", 0.1))
     print(predict("the quick brown fox jumped over the lazy dog", 0.1))
+
+    print(sklearn.__version__)
