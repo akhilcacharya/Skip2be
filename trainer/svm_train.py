@@ -4,16 +4,17 @@ import sys
 import os
 from sklearn.svm import LinearSVC
 from sklearn.naive_bayes import MultinomialNB
-from sklearn.metrics import average_precision_score, accuracy_score
+from sklearn.metrics import average_precision_score, accuracy_score, recall_score
 import numpy as np
 from scipy.sparse import coo_matrix, hstack
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.externals import joblib
+from sklearn.metrics import confusion_matrix
 
 def build_vectorizor(corpus):
-    vectorizer = TfidfVectorizer(analyzer="char_wb", ngram_range=(3,9))
+    vectorizer = TfidfVectorizer(analyzer="word", ngram_range=(1,2))
     vectorizer.fit(corpus)
     return vectorizer
 
@@ -30,12 +31,21 @@ def main(args):
     corpus = []
     times = []
 
+    numpos = 0
+    numneg = 0
+
     for line in train:
         label, chunk, time = line.rstrip().split("\t")
         label = int(label)
 
         # Normalize data
-        for _ in range(0, 1 + 5 * label):
+        if label:
+            numpos += 1
+            corpus.append(chunk)
+            y.append(label)
+            times.append(float(time))
+        elif numneg < numpos:
+            numneg += 1
             corpus.append(chunk)
             y.append(label)
             times.append(float(time))
@@ -62,7 +72,9 @@ def main(args):
 
     # Print some metrics
     print("precision-recall: ", average_precision_score(y_val, predictions))
+    print("recall: ", recall_score(y_val, predictions))
     print("Acc: ", accuracy_score(y_val, predictions))
+    print(confusion_matrix(y_val, predictions))
 
 
     print("Saving Model!")

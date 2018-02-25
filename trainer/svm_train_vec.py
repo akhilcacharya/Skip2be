@@ -3,7 +3,7 @@
 import sys
 import os
 from sklearn.svm import LinearSVC
-from sklearn.metrics import average_precision_score, accuracy_score
+from sklearn.metrics import average_precision_score, accuracy_score, recall_score
 import numpy as np
 from sklearn.model_selection import train_test_split
 from gensim.models import KeyedVectors
@@ -72,6 +72,7 @@ def main(args):
 
     # Print some metrics
     print("precision-recall: ", average_precision_score(y_val, predictions))
+    print("recall: ", recall_score(y_val, predictions))
     print("Acc: ", accuracy_score(y_val, predictions))
 
     # Let user input examples
