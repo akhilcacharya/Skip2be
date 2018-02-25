@@ -17,7 +17,7 @@ def get_sentence_vec(words, vectorizer):
         try:
             sentence_vec += vectorizer.get_vector(word)
         except KeyError:
-            pass
+            sentence_vec += np.ones(300)
     if len(words) > 0:
         return sentence_vec/len(words)
     return sentence_vec
