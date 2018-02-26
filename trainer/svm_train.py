@@ -36,7 +36,7 @@ def main(args):
         label, chunk, time = line.rstrip().split("\t")
         label = int(label)
 
-        for _ in range(0, 1 + 5*label):
+        for _ in range(0, 1 + 0*label):
             corpus.append(chunk)
             y.append(label)
             times.append(float(time))
