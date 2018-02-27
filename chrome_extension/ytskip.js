@@ -94,10 +94,7 @@ var HttpClient = function() {
         anHttpRequest.onreadystatechange = function() { 
             if (anHttpRequest.readyState == XMLHttpRequest.DONE && anHttpRequest.status == 200){
                 aCallback(anHttpRequest.responseText);
-                console.log(anHttpRequest.readyState);
-                console.log(anHttpRequest.responseText);
             }
-                //console.log(anHttpRequest.readyState)
                 
         }
 
