@@ -116,7 +116,7 @@ function init(){
     
         console.log(vid)
         var client = new HttpClient();
-        client.get('https://hackillinois.freemerman.com?id='+vid, function(response) {
+        client.get('https://modelconsumer4.azurewebsites.net/api/HttpTriggerPython31?code=PBvG6IAqGmXkRK8gNJrN7HYW86mYM/pJY2GauxY2AJGBwObKJQyGVg==&name='+vid, function(response) {
             timesToSkip = response
             console.log(JSON.parse(timesToSkip));
             makeAds(JSON.parse(JSON.parse(timesToSkip)));
