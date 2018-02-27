@@ -11,6 +11,15 @@ var currtime;
 //var makeAds
 
 
+function getXMLHttpRequest(){
+    try {
+       return XPCNativeWrapper(new window.wrappedJSObject.XMLHttpRequest());
+    }
+    catch(evt){
+       return new XMLHttpRequest();
+    }
+ }
+
 var skipAd = function(time, id){
     console.log('trying to add a skipad button at ' + time)
     var data = $('<div id = "button' + id+'" data-starttime = "'+time[0]+'" data-endtime = "'+time[1]+'" class="buttonwrapper videoAdUiSkipContainer html5-stop-propagation" style="opacity: 1;"><button id = "'+id+'" class="videoAdUiSkipButton videoAdUiAction videoAdUiFixedPaddingSkipButton"><div class="videoAdUiSkipButtonExperimentalText videoAdUiFixedPaddingSkipButtonText">Skip Ad</div><div class="videoAdUiExperimentalSkipIcon videoAdUiFixedPaddingSkipButtonIcon"></div></button></div>').hide()
@@ -78,13 +87,20 @@ video.addEventListener("seeking", function() {
 
 var HttpClient = function() {
     this.get = function(aUrl, aCallback) {
-        var anHttpRequest = new XMLHttpRequest();
+
+        var anHttpRequest = getXMLHttpRequest();
+        anHttpRequest.open( "GET", aUrl, true );            
+
         anHttpRequest.onreadystatechange = function() { 
-            if (anHttpRequest.readyState == 4 && anHttpRequest.status == 200)
+            if (anHttpRequest.readyState == XMLHttpRequest.DONE && anHttpRequest.status == 200){
                 aCallback(anHttpRequest.responseText);
+                console.log(anHttpRequest.readyState);
+                console.log(anHttpRequest.responseText);
+            }
+                //console.log(anHttpRequest.readyState)
+                
         }
 
-        anHttpRequest.open( "GET", aUrl, true );            
         anHttpRequest.send( null );
     }
 }
@@ -103,7 +119,7 @@ function init(){
     
         console.log(vid)
         var client = new HttpClient();
-        client.get('https://modelconsumer4.azurewebsites.net/api/HttpTriggerPython31?code=PBvG6IAqGmXkRK8gNJrN7HYW86mYM/pJY2GauxY2AJGBwObKJQyGVg==&name='+vid, function(response) {
+        client.get('https://hackillinois.freemerman.com?id='+vid, function(response) {
             timesToSkip = response
             console.log(JSON.parse(timesToSkip));
             makeAds(JSON.parse(JSON.parse(timesToSkip)));
